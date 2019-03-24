@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2019-03-24 Sun 15:21 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Captured</title>
+<meta name="generator" content="Org mode" />
+<meta name="author" content="Huy Tran" />
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { width: 90%; }
+  /*]]>*/-->
+</style>
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=EB+Garamond" />
+<link rel="stylesheet" type="text/css" href="capture.css" />
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2018 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+</head>
+<body>
+<div id="content">
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="#org7290953">1. Inbox</a>
+<ul>
+<li><a href="#org9d66428">1.1. React Hooks in PureScript</a></li>
+<li><a href="#org9c05677">1.2. Nice quote about programming</a></li>
+<li><a href="#org34687b0">1.3. How a Bitcoin Evangelist Made Himself Vanish, in 15 (Not So Easy) Steps - The New York Times</a></li>
+<li><a href="#orgd152bbe">1.4. The One On Dynamic Programming! | Blogarithms</a></li>
+<li><a href="#orgbb01215">1.5. [PDF] A hacker's guide to Monad</a></li>
+<li><a href="#org29f17e7">1.6. [PDF] TypeClassopedia</a></li>
+<li><a href="#orgbfb5472">1.7. [PDF] Applicative Programming with effects</a></li>
+<li><a href="#org3e2f816">1.8. [PDF] Monad for functional programming</a></li>
+<li><a href="#org0b89b9f">1.9. Life in game development</a></li>
+<li><a href="#org1b7e478">1.10. [PDF] A program to solve Sudoku</a></li>
+<li><a href="#org58cb7ac">1.11. Series of introduction to Functional Programming</a></li>
+<li><a href="#org7c3bf18">1.12. Figma rewrite parts of its TypeScript multiplayer server with Rust</a></li>
+<li><a href="#orgb869ecb">1.13. Recover the dropped git stash</a></li>
+<li><a href="#org9c908d2">1.14. Article: Beating the Averages</a></li>
+<li><a href="#org97a79c0">1.15. Re-educating Rita</a></li>
+<li><a href="#org27a4b06">1.16. Article: How to get customers for your side project</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div id="outline-container-org7290953" class="outline-2">
+<h2 id="org7290953"><span class="section-number-2">1</span> Inbox</h2>
+<div class="outline-text-2" id="text-1">
+</div>
+<div id="outline-container-org9d66428" class="outline-3">
+<h3 id="org9d66428"><span class="section-number-3">1.1</span> React Hooks in PureScript</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+Source: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu]</span></span>, <a href="https://github.com/spicydonuts/purescript-react-basic-hooks">spicydonuts/purescript-react-basic-hooks: An implementation of React hooks on top of purescript-react-basic</a>
+</p>
+<blockquote>
+<p>
+This library provides the React.Basic.Hooks module, which can completely replace the React.Basic module. It borrows a few types from the current React.Basic module like ReactComponent and JSX to make it easy to use both versions in the same project.
+</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-org9c05677" class="outline-3">
+<h3 id="org9c05677"><span class="section-number-3">1.2</span> Nice quote about programming</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+Source: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu]</span></span>, <a href="http://eloquentjavascript.net/1st_edition/chapter6.html#p61d9c58b7ccd55b">Functional Programming &#x2013; Eloquent JavaScript</a>
+</p>
+<blockquote>
+<p>
+Admittedly, in most cases, breaking a program does not cause any large explosions. But when a program, by someone's ignorant tinkering, has degenerated into a ramshackle mass of errors, reshaping it into something sensible is a terrible labour ― sometimes you might just as well start over.
+</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-org34687b0" class="outline-3">
+<h3 id="org34687b0"><span class="section-number-3">1.3</span> <a href="https://www.nytimes.com/2019/03/12/technology/how-to-disappear-surveillance-state.html">How a Bitcoin Evangelist Made Himself Vanish, in 15 (Not So Easy) Steps - The New York Times</a></h3>
+<div class="outline-text-3" id="text-1-3">
+<p>
+Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu 11:04]</span></span>
+</p>
+
+<p>
+Impressive 
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgd152bbe" class="outline-3">
+<h3 id="orgd152bbe"><span class="section-number-3">1.4</span> <a href="https://blogarithms.github.io/articles/2019-03/cracking-dp-part-one">The One On Dynamic Programming! | Blogarithms</a></h3>
+<div class="outline-text-3" id="text-1-4">
+<p>
+Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu 11:04]</span></span>
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbb01215" class="outline-3">
+<h3 id="orgbb01215"><span class="section-number-3">1.5</span> [PDF] <a href="https://web.archive.org/web/20190315213523/https:/stefan-klinger.de/files/monadGuide.pdf">A hacker's guide to Monad</a></h3>
+<div class="outline-text-3" id="text-1-5">
+<p>
+Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu 11:09]</span></span>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org29f17e7" class="outline-3">
+<h3 id="org29f17e7"><span class="section-number-3">1.6</span> [PDF] <a href="https://web.archive.org/web/20190308183038/https:/wiki.haskell.org/wikiupload/e/e9/Typeclassopedia.pdf">TypeClassopedia</a></h3>
+<div class="outline-text-3" id="text-1-6">
+<p>
+Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu 11:11]</span></span>
+</p>
+</div>
+</div>
+
+<div id="outline-container-orgbfb5472" class="outline-3">
+<h3 id="orgbfb5472"><span class="section-number-3">1.7</span> [PDF] <a href="https://web.archive.org/web/20190308182743/http:/www.staff.city.ac.uk/~ross/papers/Applicative.pdf">Applicative Programming with effects</a></h3>
+<div class="outline-text-3" id="text-1-7">
+<p>
+Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu 11:12]</span></span>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org3e2f816" class="outline-3">
+<h3 id="org3e2f816"><span class="section-number-3">1.8</span> [PDF] <a href="https://web.archive.org/web/20190308075944/http:/homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf">Monad for functional programming</a></h3>
+<div class="outline-text-3" id="text-1-8">
+<p>
+Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu 11:15]</span></span>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org0b89b9f" class="outline-3">
+<h3 id="org0b89b9f"><span class="section-number-3">1.9</span> Life in game development</h3>
+<div class="outline-text-3" id="text-1-9">
+<p>
+Source: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu]</span></span>, <a href="https://www.polygon.com/2019/3/5/18233699/game-developer-layoffs-unions-katie-chironis">What it’s like to be laid off from your video game studio - Polygon</a>
+</p>
+<blockquote>
+<p>
+Dream jobs are a funny thing. You can make money doing what you love. That’s pretty cool. But after multiple interstate, or intercontinental, moves for the sake of finding a new job, or rebooting your social life for the fifth time, or having to explain to your daughter why she’s changing schools and leaving her friends, the cool parts lose their luster.
+</p>
+
+<p>
+And once that luster is gone, a dream job is just another job.
+</p>
+</blockquote>
+</div>
+</div>
+
+<div id="outline-container-org1b7e478" class="outline-3">
+<h3 id="org1b7e478"><span class="section-number-3">1.10</span> [PDF] <a href="http://web.archive.org/web/20130823222012/http:/www.cs.tufts.edu/~nr/comp150fp/archive/richard-bird/sudoku.pdf">A program to solve Sudoku</a></h3>
+<div class="outline-text-3" id="text-1-10">
+<p>
+Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu 11:19]</span></span>
+</p>
+</div>
+</div>
+<div id="outline-container-org58cb7ac" class="outline-3">
+<h3 id="org58cb7ac"><span class="section-number-3">1.11</span> Series of introduction to Functional Programming</h3>
+<div class="outline-text-3" id="text-1-11">
+<p>
+Source: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-22 Fri]</span></span>, <a href="https://codurance.com/2018/08/09/the-functional-style-part-1/">The Functional Style - Part 1 | Codurance | Craft at Heart | London | Barcelona</a>
+</p>
+<blockquote>
+<p>
+So over the course of this nine part series I want to cover the topics that I think are important in functional programming. I will try to explain first-class and higher-order functions, map and reduce, currying, function composition and monads, lazy evaluation and persistent data structures. All will be illustrated with code examples wherever possible. Most (but not all) of the code will be in Java, Groovy and Clojure because that is what I know best.
+</p>
+
+<p>
+Topics you will not find in this series include monoids, functors, applicatives, and category theory. 
+</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-org7c3bf18" class="outline-3">
+<h3 id="org7c3bf18"><span class="section-number-3">1.12</span> Figma rewrite parts of its TypeScript multiplayer server with Rust</h3>
+<div class="outline-text-3" id="text-1-12">
+<p>
+Source: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-22 Fri]</span></span>, <a href="https://www.figma.com/blog/rust-in-production-at-figma/">How Mozilla’s Rust dramatically improved our server-side performance</a>
+</p>
+
+<p>
+Their problem:
+</p>
+<blockquote>
+<p>
+The main problem with the old server was the unpredictable latency spikes during syncing. The server was written in TypeScript and, being single-threaded, couldn’t process operations in parallel. That meant a single slow operation would lock up the entire worker until it was complete. A common operation is to encode the document and Figma documents can get very large, so operations would take an arbitrarily-long amount of time. Users connected to that worker would be unable to sync their changes in the meantime.
+</p>
+</blockquote>
+
+<p>
+And the solution:
+</p>
+<blockquote>
+<p>
+we did by moving the performance-sensitive parts of the multiplayer server into a separate child process. That child process is written in Rust and communicates with its host process using stdin and stdout.
+</p>
+</blockquote>
+</div>
+</div>
+<div id="outline-container-orgb869ecb" class="outline-3">
+<h3 id="orgb869ecb"><span class="section-number-3">1.13</span> Recover the dropped git stash</h3>
+<div class="outline-text-3" id="text-1-13">
+<p>
+Source: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-22 Fri]</span></span>, <a href="http://inlehmansterms.net/2015/09/19/recover-a-dropped-git-stash/">Recover a dropped Git stash - In Lehman's Terms</a>
+</p>
+<blockquote>
+<p>
+Dangling commit: commits that not linked to any commit / branch,.. for most of the times, dropped stashes can be found as a dangling commit.
+</p>
+
+<p>
+We pipe the output of git fsck thru awk to only log the hashes of the dangling commits.
+</p>
+
+<p>
+git fsck &#x2013;no-reflogs | awk '<i>dangling commit</i> {print $3}'
+</p>
+
+<p>
+This still might produce a number of hashes. To better determine which hash corresponds to the commit you dropped from the stash, you can pass the hashes to git log or git show to get more information.
+</p>
+
+<p>
+When you found the hash, checkout to revert it back.
+</p>
+</blockquote>
+</div>
+</div>
+
+
+<div id="outline-container-org9c908d2" class="outline-3">
+<h3 id="org9c908d2"><span class="section-number-3">1.14</span> Article: Beating the Averages</h3>
+<div class="outline-text-3" id="text-1-14">
+<p>
+Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-22 Fri 12:24]</span></span>
+</p>
+
+<p>
+Beating the Averages by Paul Graham
+<a href="http://www.paulgraham.com/avg.html?viewfullsite=1">http://www.paulgraham.com/avg.html?viewfullsite=1</a>
+</p>
+</div>
+</div>
+
+<div id="outline-container-org97a79c0" class="outline-3">
+<h3 id="org97a79c0"><span class="section-number-3">1.15</span> Re-educating Rita</h3>
+<div class="outline-text-3" id="text-1-15">
+<p>
+Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-22 Fri 21:28] </span></span> from email
+</p>
+
+<p>
+"Character skills" such as perseverance, sociability and curiosity, will be increasingly important in a world of greater automation
+<a href="https://outline.com/PpFxaL">https://outline.com/PpFxaL</a>
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-org27a4b06" class="outline-3">
+<h3 id="org27a4b06"><span class="section-number-3">1.16</span> Article: How to get customers for your side project</h3>
+<div class="outline-text-3" id="text-1-16">
+<p>
+Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-24 Sun 01:10] </span></span> from email
+</p>
+
+<p>
+How I got my first 10 customers for my side-project and what Ive learned from them
+<a href="https://blog.cronhub.io/how-i-acquired-my-first-10-customers-for-cronhub/">https://blog.cronhub.io/how-i-acquired-my-first-10-customers-for-cronhub/</a>
+<a href="https://medium.freecodecamp.org/how-i-acquired-my-first-10-customers-for-my-side-project-c4ee892a70a2">https://medium.freecodecamp.org/how-i-acquired-my-first-10-customers-for-my-side-project-c4ee892a70a2</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Huy Tran</p>
+<p class="date">Created: 2019-03-24 Sun 15:21</p>
+<p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>

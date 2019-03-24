@@ -1,0 +1,18 @@
+html { font-family: Garamond, EB Garamond, Georgia, serif; background: #fafafa;}
+body {
+    max-width: 500px;
+    position: relative;
+}
+h3 .section-number-3, #postamble, .outline-2 h2 { display: none; }
+.outline-text-3 { margin-bottom: 30px; padding-bottom: 20px; border-bottom: 1px solid #eee; }
+a { color: #555; }
+@media only screen and (min-device-width : 950px) {
+    #table-of-contents {
+        position: fixed;
+        top: 0; left: 515px;
+        max-width: 450px;
+    }
+}
+:target{
+    background: #FFF9C4;
+}

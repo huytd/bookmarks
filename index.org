@@ -1,0 +1,102 @@
+#+TITLE: Captured
+#+OPTIONS: title:nil H:2
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=EB+Garamond" />
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="capture.css" />
+* Inbox
+** React Hooks in PureScript
+ Source: [2019-03-21 Thu], [[https://github.com/spicydonuts/purescript-react-basic-hooks][spicydonuts/purescript-react-basic-hooks: An implementation of React hooks on top of purescript-react-basic]]
+  #+BEGIN_QUOTE
+ This library provides the React.Basic.Hooks module, which can completely replace the React.Basic module. It borrows a few types from the current React.Basic module like ReactComponent and JSX to make it easy to use both versions in the same project.
+ #+END_QUOTE
+** Nice quote about programming
+ Source: [2019-03-21 Thu], [[http://eloquentjavascript.net/1st_edition/chapter6.html#p61d9c58b7ccd55b][Functional Programming -- Eloquent JavaScript]]
+  #+BEGIN_QUOTE
+ Admittedly, in most cases, breaking a program does not cause any large explosions. But when a program, by someone's ignorant tinkering, has degenerated into a ramshackle mass of errors, reshaping it into something sensible is a terrible labour ― sometimes you might just as well start over.
+ #+END_QUOTE
+**  [[https://www.nytimes.com/2019/03/12/technology/how-to-disappear-surveillance-state.html][How a Bitcoin Evangelist Made Himself Vanish, in 15 (Not So Easy) Steps - The New York Times]] 
+ Captured On: [2019-03-21 Thu 11:04]
+
+ Impressive 
+
+**  [[https://blogarithms.github.io/articles/2019-03/cracking-dp-part-one][The One On Dynamic Programming! | Blogarithms]] 
+ Captured On: [2019-03-21 Thu 11:04]
+
+** [PDF] [[https://web.archive.org/web/20190315213523/https:/stefan-klinger.de/files/monadGuide.pdf][A hacker's guide to Monad]] 
+ Captured On: [2019-03-21 Thu 11:09]
+
+** [PDF] [[https://web.archive.org/web/20190308183038/https:/wiki.haskell.org/wikiupload/e/e9/Typeclassopedia.pdf][TypeClassopedia]] 
+ Captured On: [2019-03-21 Thu 11:11]
+
+** [PDF] [[https://web.archive.org/web/20190308182743/http:/www.staff.city.ac.uk/~ross/papers/Applicative.pdf][Applicative Programming with effects]] 
+ Captured On: [2019-03-21 Thu 11:12]
+
+** [PDF] [[https://web.archive.org/web/20190308075944/http:/homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf][Monad for functional programming]] 
+ Captured On: [2019-03-21 Thu 11:15]
+ 
+** Life in game development
+ Source: [2019-03-21 Thu], [[https://www.polygon.com/2019/3/5/18233699/game-developer-layoffs-unions-katie-chironis][What it’s like to be laid off from your video game studio - Polygon]]
+  #+BEGIN_QUOTE
+ Dream jobs are a funny thing. You can make money doing what you love. That’s pretty cool. But after multiple interstate, or intercontinental, moves for the sake of finding a new job, or rebooting your social life for the fifth time, or having to explain to your daughter why she’s changing schools and leaving her friends, the cool parts lose their luster.
+
+ And once that luster is gone, a dream job is just another job.
+ #+END_QUOTE
+
+** [PDF] [[http://web.archive.org/web/20130823222012/http:/www.cs.tufts.edu/~nr/comp150fp/archive/richard-bird/sudoku.pdf][A program to solve Sudoku]] 
+ Captured On: [2019-03-21 Thu 11:19]
+** Series of introduction to Functional Programming
+ Source: [2019-03-22 Fri], [[https://codurance.com/2018/08/09/the-functional-style-part-1/][The Functional Style - Part 1 | Codurance | Craft at Heart | London | Barcelona]]
+  #+BEGIN_QUOTE
+ So over the course of this nine part series I want to cover the topics that I think are important in functional programming. I will try to explain first-class and higher-order functions, map and reduce, currying, function composition and monads, lazy evaluation and persistent data structures. All will be illustrated with code examples wherever possible. Most (but not all) of the code will be in Java, Groovy and Clojure because that is what I know best.
+
+ Topics you will not find in this series include monoids, functors, applicatives, and category theory. 
+ #+END_QUOTE
+** Figma rewrite parts of its TypeScript multiplayer server with Rust
+ Source: [2019-03-22 Fri], [[https://www.figma.com/blog/rust-in-production-at-figma/][How Mozilla’s Rust dramatically improved our server-side performance]]
+ 
+Their problem:
+  #+BEGIN_QUOTE
+ The main problem with the old server was the unpredictable latency spikes during syncing. The server was written in TypeScript and, being single-threaded, couldn’t process operations in parallel. That meant a single slow operation would lock up the entire worker until it was complete. A common operation is to encode the document and Figma documents can get very large, so operations would take an arbitrarily-long amount of time. Users connected to that worker would be unable to sync their changes in the meantime.
+ #+END_QUOTE
+
+And the solution:
+#+BEGIN_QUOTE
+we did by moving the performance-sensitive parts of the multiplayer server into a separate child process. That child process is written in Rust and communicates with its host process using stdin and stdout.
+#+END_QUOTE
+** Recover the dropped git stash
+ Source: [2019-03-22 Fri], [[http://inlehmansterms.net/2015/09/19/recover-a-dropped-git-stash/][Recover a dropped Git stash - In Lehman's Terms]]
+  #+BEGIN_QUOTE
+ Dangling commit: commits that not linked to any commit / branch,.. for most of the times, dropped stashes can be found as a dangling commit.
+
+ We pipe the output of git fsck thru awk to only log the hashes of the dangling commits.
+
+ git fsck --no-reflogs | awk '/dangling commit/ {print $3}'
+
+ This still might produce a number of hashes. To better determine which hash corresponds to the commit you dropped from the stash, you can pass the hashes to git log or git show to get more information.
+ 
+ When you found the hash, checkout to revert it back.
+ #+END_QUOTE
+
+
+** Article: Beating the Averages
+
+Captured On: [2019-03-22 12:24:26]
+
+Beating the Averages by Paul Graham
+http://www.paulgraham.com/avg.html?viewfullsite=1
+
+** Re-educating Rita
+
+Captured On: [2019-03-22 21:28:44] from email
+
+"Character skills" such as perseverance, sociability and curiosity, will be increasingly important in a world of greater automation
+https://outline.com/PpFxaL
+
+
+** Article: How to get customers for your side project
+
+Captured On: [2019-03-24 01:10:25] from email
+
+How I got my first 10 customers for my side-project and what Ive learned from them
+https://blog.cronhub.io/how-i-acquired-my-first-10-customers-for-cronhub/
+https://medium.freecodecamp.org/how-i-acquired-my-first-10-customers-for-my-side-project-c4ee892a70a2
+
