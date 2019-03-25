@@ -1,4 +1,3 @@
-. .profile
 ./sync >> index.org
 emacs index.org --batch -f org-html-export-to-html --kill
 git add -A

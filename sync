@@ -11,6 +11,11 @@ from email.mime.text import MIMEText
 from email.header import Header, decode_header, make_header
 from bs4 import BeautifulSoup
 import os
+from dotenv import load_dotenv
+from pathlib import Path
+
+env_path = Path('.') / '.profile'
+load_dotenv(dotenv_path=env_path)
 
 emailAddress = os.environ["NOTE_SYNC_MAIL"]
 emailPassword = os.environ["NOTE_SYNC_PASS"]
