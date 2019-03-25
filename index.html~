@@ -3,12 +3,12 @@
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 <head>
-<!-- 2019-03-24 Sun 15:21 -->
+<!-- 2019-03-25 Mon 03:51 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <title>Captured</title>
 <meta name="generator" content="Org mode" />
-<meta name="author" content="Huy Tran" />
+<meta name="author" content="root" />
 <style type="text/css">
  <!--/*--><![CDATA[/*><!--*/
   .title  { text-align: center;
@@ -235,35 +235,35 @@ for the JavaScript code in this tag.
 <h2>Table of Contents</h2>
 <div id="text-table-of-contents">
 <ul>
-<li><a href="#org7290953">1. Inbox</a>
+<li><a href="#orgd34bd61">1. Inbox</a>
 <ul>
-<li><a href="#org9d66428">1.1. React Hooks in PureScript</a></li>
-<li><a href="#org9c05677">1.2. Nice quote about programming</a></li>
-<li><a href="#org34687b0">1.3. How a Bitcoin Evangelist Made Himself Vanish, in 15 (Not So Easy) Steps - The New York Times</a></li>
-<li><a href="#orgd152bbe">1.4. The One On Dynamic Programming! | Blogarithms</a></li>
-<li><a href="#orgbb01215">1.5. [PDF] A hacker's guide to Monad</a></li>
-<li><a href="#org29f17e7">1.6. [PDF] TypeClassopedia</a></li>
-<li><a href="#orgbfb5472">1.7. [PDF] Applicative Programming with effects</a></li>
-<li><a href="#org3e2f816">1.8. [PDF] Monad for functional programming</a></li>
-<li><a href="#org0b89b9f">1.9. Life in game development</a></li>
-<li><a href="#org1b7e478">1.10. [PDF] A program to solve Sudoku</a></li>
-<li><a href="#org58cb7ac">1.11. Series of introduction to Functional Programming</a></li>
-<li><a href="#org7c3bf18">1.12. Figma rewrite parts of its TypeScript multiplayer server with Rust</a></li>
-<li><a href="#orgb869ecb">1.13. Recover the dropped git stash</a></li>
-<li><a href="#org9c908d2">1.14. Article: Beating the Averages</a></li>
-<li><a href="#org97a79c0">1.15. Re-educating Rita</a></li>
-<li><a href="#org27a4b06">1.16. Article: How to get customers for your side project</a></li>
+<li><a href="#orgc7b8a71">1.1. React Hooks in PureScript</a></li>
+<li><a href="#org55ae3be">1.2. Nice quote about programming</a></li>
+<li><a href="#orgf7e031b">1.3. How a Bitcoin Evangelist Made Himself Vanish, in 15 (Not So Easy) Steps - The New York Times</a></li>
+<li><a href="#orga96965b">1.4. The One On Dynamic Programming! | Blogarithms</a></li>
+<li><a href="#org109896d">1.5. [PDF] A hacker's guide to Monad</a></li>
+<li><a href="#orgb9977dd">1.6. [PDF] TypeClassopedia</a></li>
+<li><a href="#orgac9ef47">1.7. [PDF] Applicative Programming with effects</a></li>
+<li><a href="#orgecc8396">1.8. [PDF] Monad for functional programming</a></li>
+<li><a href="#org318a418">1.9. Life in game development</a></li>
+<li><a href="#org72f47ac">1.10. [PDF] A program to solve Sudoku</a></li>
+<li><a href="#orgcffb709">1.11. Series of introduction to Functional Programming</a></li>
+<li><a href="#org5f64580">1.12. Figma rewrite parts of its TypeScript multiplayer server with Rust</a></li>
+<li><a href="#org78a9a49">1.13. Recover the dropped git stash</a></li>
+<li><a href="#orgaf7f7b8">1.14. Article: Beating the Averages</a></li>
+<li><a href="#orgb46e537">1.15. Re-educating Rita</a></li>
+<li><a href="#org16f0287">1.16. Article: How to get customers for your side project</a></li>
 </ul>
 </li>
 </ul>
 </div>
 </div>
-<div id="outline-container-org7290953" class="outline-2">
-<h2 id="org7290953"><span class="section-number-2">1</span> Inbox</h2>
+<div id="outline-container-orgd34bd61" class="outline-2">
+<h2 id="orgd34bd61"><span class="section-number-2">1</span> Inbox</h2>
 <div class="outline-text-2" id="text-1">
 </div>
-<div id="outline-container-org9d66428" class="outline-3">
-<h3 id="org9d66428"><span class="section-number-3">1.1</span> React Hooks in PureScript</h3>
+<div id="outline-container-orgc7b8a71" class="outline-3">
+<h3 id="orgc7b8a71"><span class="section-number-3">1.1</span> React Hooks in PureScript</h3>
 <div class="outline-text-3" id="text-1-1">
 <p>
 Source: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu]</span></span>, <a href="https://github.com/spicydonuts/purescript-react-basic-hooks">spicydonuts/purescript-react-basic-hooks: An implementation of React hooks on top of purescript-react-basic</a>
@@ -275,8 +275,8 @@ This library provides the React.Basic.Hooks module, which can completely replace
 </blockquote>
 </div>
 </div>
-<div id="outline-container-org9c05677" class="outline-3">
-<h3 id="org9c05677"><span class="section-number-3">1.2</span> Nice quote about programming</h3>
+<div id="outline-container-org55ae3be" class="outline-3">
+<h3 id="org55ae3be"><span class="section-number-3">1.2</span> Nice quote about programming</h3>
 <div class="outline-text-3" id="text-1-2">
 <p>
 Source: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu]</span></span>, <a href="http://eloquentjavascript.net/1st_edition/chapter6.html#p61d9c58b7ccd55b">Functional Programming &#x2013; Eloquent JavaScript</a>
@@ -288,8 +288,8 @@ Admittedly, in most cases, breaking a program does not cause any large explosion
 </blockquote>
 </div>
 </div>
-<div id="outline-container-org34687b0" class="outline-3">
-<h3 id="org34687b0"><span class="section-number-3">1.3</span> <a href="https://www.nytimes.com/2019/03/12/technology/how-to-disappear-surveillance-state.html">How a Bitcoin Evangelist Made Himself Vanish, in 15 (Not So Easy) Steps - The New York Times</a></h3>
+<div id="outline-container-orgf7e031b" class="outline-3">
+<h3 id="orgf7e031b"><span class="section-number-3">1.3</span> <a href="https://www.nytimes.com/2019/03/12/technology/how-to-disappear-surveillance-state.html">How a Bitcoin Evangelist Made Himself Vanish, in 15 (Not So Easy) Steps - The New York Times</a></h3>
 <div class="outline-text-3" id="text-1-3">
 <p>
 Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu 11:04]</span></span>
@@ -301,8 +301,8 @@ Impressive
 </div>
 </div>
 
-<div id="outline-container-orgd152bbe" class="outline-3">
-<h3 id="orgd152bbe"><span class="section-number-3">1.4</span> <a href="https://blogarithms.github.io/articles/2019-03/cracking-dp-part-one">The One On Dynamic Programming! | Blogarithms</a></h3>
+<div id="outline-container-orga96965b" class="outline-3">
+<h3 id="orga96965b"><span class="section-number-3">1.4</span> <a href="https://blogarithms.github.io/articles/2019-03/cracking-dp-part-one">The One On Dynamic Programming! | Blogarithms</a></h3>
 <div class="outline-text-3" id="text-1-4">
 <p>
 Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu 11:04]</span></span>
@@ -310,8 +310,8 @@ Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21
 </div>
 </div>
 
-<div id="outline-container-orgbb01215" class="outline-3">
-<h3 id="orgbb01215"><span class="section-number-3">1.5</span> [PDF] <a href="https://web.archive.org/web/20190315213523/https:/stefan-klinger.de/files/monadGuide.pdf">A hacker's guide to Monad</a></h3>
+<div id="outline-container-org109896d" class="outline-3">
+<h3 id="org109896d"><span class="section-number-3">1.5</span> [PDF] <a href="https://web.archive.org/web/20190315213523/https:/stefan-klinger.de/files/monadGuide.pdf">A hacker's guide to Monad</a></h3>
 <div class="outline-text-3" id="text-1-5">
 <p>
 Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu 11:09]</span></span>
@@ -319,8 +319,8 @@ Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21
 </div>
 </div>
 
-<div id="outline-container-org29f17e7" class="outline-3">
-<h3 id="org29f17e7"><span class="section-number-3">1.6</span> [PDF] <a href="https://web.archive.org/web/20190308183038/https:/wiki.haskell.org/wikiupload/e/e9/Typeclassopedia.pdf">TypeClassopedia</a></h3>
+<div id="outline-container-orgb9977dd" class="outline-3">
+<h3 id="orgb9977dd"><span class="section-number-3">1.6</span> [PDF] <a href="https://web.archive.org/web/20190308183038/https:/wiki.haskell.org/wikiupload/e/e9/Typeclassopedia.pdf">TypeClassopedia</a></h3>
 <div class="outline-text-3" id="text-1-6">
 <p>
 Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu 11:11]</span></span>
@@ -328,8 +328,8 @@ Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21
 </div>
 </div>
 
-<div id="outline-container-orgbfb5472" class="outline-3">
-<h3 id="orgbfb5472"><span class="section-number-3">1.7</span> [PDF] <a href="https://web.archive.org/web/20190308182743/http:/www.staff.city.ac.uk/~ross/papers/Applicative.pdf">Applicative Programming with effects</a></h3>
+<div id="outline-container-orgac9ef47" class="outline-3">
+<h3 id="orgac9ef47"><span class="section-number-3">1.7</span> [PDF] <a href="https://web.archive.org/web/20190308182743/http:/www.staff.city.ac.uk/~ross/papers/Applicative.pdf">Applicative Programming with effects</a></h3>
 <div class="outline-text-3" id="text-1-7">
 <p>
 Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu 11:12]</span></span>
@@ -337,8 +337,8 @@ Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21
 </div>
 </div>
 
-<div id="outline-container-org3e2f816" class="outline-3">
-<h3 id="org3e2f816"><span class="section-number-3">1.8</span> [PDF] <a href="https://web.archive.org/web/20190308075944/http:/homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf">Monad for functional programming</a></h3>
+<div id="outline-container-orgecc8396" class="outline-3">
+<h3 id="orgecc8396"><span class="section-number-3">1.8</span> [PDF] <a href="https://web.archive.org/web/20190308075944/http:/homepages.inf.ed.ac.uk/wadler/papers/marktoberdorf/baastad.pdf">Monad for functional programming</a></h3>
 <div class="outline-text-3" id="text-1-8">
 <p>
 Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu 11:15]</span></span>
@@ -346,8 +346,8 @@ Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21
 </div>
 </div>
 
-<div id="outline-container-org0b89b9f" class="outline-3">
-<h3 id="org0b89b9f"><span class="section-number-3">1.9</span> Life in game development</h3>
+<div id="outline-container-org318a418" class="outline-3">
+<h3 id="org318a418"><span class="section-number-3">1.9</span> Life in game development</h3>
 <div class="outline-text-3" id="text-1-9">
 <p>
 Source: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu]</span></span>, <a href="https://www.polygon.com/2019/3/5/18233699/game-developer-layoffs-unions-katie-chironis">What it’s like to be laid off from your video game studio - Polygon</a>
@@ -364,16 +364,16 @@ And once that luster is gone, a dream job is just another job.
 </div>
 </div>
 
-<div id="outline-container-org1b7e478" class="outline-3">
-<h3 id="org1b7e478"><span class="section-number-3">1.10</span> [PDF] <a href="http://web.archive.org/web/20130823222012/http:/www.cs.tufts.edu/~nr/comp150fp/archive/richard-bird/sudoku.pdf">A program to solve Sudoku</a></h3>
+<div id="outline-container-org72f47ac" class="outline-3">
+<h3 id="org72f47ac"><span class="section-number-3">1.10</span> [PDF] <a href="http://web.archive.org/web/20130823222012/http:/www.cs.tufts.edu/~nr/comp150fp/archive/richard-bird/sudoku.pdf">A program to solve Sudoku</a></h3>
 <div class="outline-text-3" id="text-1-10">
 <p>
 Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-21 Thu 11:19]</span></span>
 </p>
 </div>
 </div>
-<div id="outline-container-org58cb7ac" class="outline-3">
-<h3 id="org58cb7ac"><span class="section-number-3">1.11</span> Series of introduction to Functional Programming</h3>
+<div id="outline-container-orgcffb709" class="outline-3">
+<h3 id="orgcffb709"><span class="section-number-3">1.11</span> Series of introduction to Functional Programming</h3>
 <div class="outline-text-3" id="text-1-11">
 <p>
 Source: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-22 Fri]</span></span>, <a href="https://codurance.com/2018/08/09/the-functional-style-part-1/">The Functional Style - Part 1 | Codurance | Craft at Heart | London | Barcelona</a>
@@ -389,8 +389,8 @@ Topics you will not find in this series include monoids, functors, applicatives,
 </blockquote>
 </div>
 </div>
-<div id="outline-container-org7c3bf18" class="outline-3">
-<h3 id="org7c3bf18"><span class="section-number-3">1.12</span> Figma rewrite parts of its TypeScript multiplayer server with Rust</h3>
+<div id="outline-container-org5f64580" class="outline-3">
+<h3 id="org5f64580"><span class="section-number-3">1.12</span> Figma rewrite parts of its TypeScript multiplayer server with Rust</h3>
 <div class="outline-text-3" id="text-1-12">
 <p>
 Source: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-22 Fri]</span></span>, <a href="https://www.figma.com/blog/rust-in-production-at-figma/">How Mozilla’s Rust dramatically improved our server-side performance</a>
@@ -415,8 +415,8 @@ we did by moving the performance-sensitive parts of the multiplayer server into 
 </blockquote>
 </div>
 </div>
-<div id="outline-container-orgb869ecb" class="outline-3">
-<h3 id="orgb869ecb"><span class="section-number-3">1.13</span> Recover the dropped git stash</h3>
+<div id="outline-container-org78a9a49" class="outline-3">
+<h3 id="org78a9a49"><span class="section-number-3">1.13</span> Recover the dropped git stash</h3>
 <div class="outline-text-3" id="text-1-13">
 <p>
 Source: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-22 Fri]</span></span>, <a href="http://inlehmansterms.net/2015/09/19/recover-a-dropped-git-stash/">Recover a dropped Git stash - In Lehman's Terms</a>
@@ -446,8 +446,8 @@ When you found the hash, checkout to revert it back.
 </div>
 
 
-<div id="outline-container-org9c908d2" class="outline-3">
-<h3 id="org9c908d2"><span class="section-number-3">1.14</span> Article: Beating the Averages</h3>
+<div id="outline-container-orgaf7f7b8" class="outline-3">
+<h3 id="orgaf7f7b8"><span class="section-number-3">1.14</span> Article: Beating the Averages</h3>
 <div class="outline-text-3" id="text-1-14">
 <p>
 Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-22 Fri 12:24]</span></span>
@@ -460,8 +460,8 @@ Beating the Averages by Paul Graham
 </div>
 </div>
 
-<div id="outline-container-org97a79c0" class="outline-3">
-<h3 id="org97a79c0"><span class="section-number-3">1.15</span> Re-educating Rita</h3>
+<div id="outline-container-orgb46e537" class="outline-3">
+<h3 id="orgb46e537"><span class="section-number-3">1.15</span> Re-educating Rita</h3>
 <div class="outline-text-3" id="text-1-15">
 <p>
 Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-22 Fri 21:28] </span></span> from email
@@ -475,8 +475,8 @@ Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-22
 </div>
 
 
-<div id="outline-container-org27a4b06" class="outline-3">
-<h3 id="org27a4b06"><span class="section-number-3">1.16</span> Article: How to get customers for your side project</h3>
+<div id="outline-container-org16f0287" class="outline-3">
+<h3 id="org16f0287"><span class="section-number-3">1.16</span> Article: How to get customers for your side project</h3>
 <div class="outline-text-3" id="text-1-16">
 <p>
 Captured On: <span class="timestamp-wrapper"><span class="timestamp">[2019-03-24 Sun 01:10] </span></span> from email
@@ -492,8 +492,8 @@ How I got my first 10 customers for my side-project and what Ive learned from th
 </div>
 </div>
 <div id="postamble" class="status">
-<p class="author">Author: Huy Tran</p>
-<p class="date">Created: 2019-03-24 Sun 15:21</p>
+<p class="author">Author: root</p>
+<p class="date">Created: 2019-03-25 Mon 03:51</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>
 </body>
