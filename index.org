@@ -100,3 +100,319 @@ How I got my first 10 customers for my side-project and what Ive learned from th
 https://blog.cronhub.io/how-i-acquired-my-first-10-customers-for-cronhub/
 https://medium.freecodecamp.org/how-i-acquired-my-first-10-customers-for-my-side-project-c4ee892a70a2
 
+
+** A complete guide to threads in Node.js – LogRocket
+
+Captured On: [2019-03-24 14:49:39] from email
+
+A complete guide to threads in Node.js  LogRocket
+https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f
+
+
+** Opinion | Forget Self-Driving Cars. Bring Back the Stick Shift. - The
+ New York Times
+
+Captured On: [2019-03-24 14:52:14] from email
+
+Opinion | Forget Self-Driving Cars. Bring Back the Stick Shift. - The New York Times
+https://www.nytimes.com/2019/03/23/opinion/sunday/stick-shift-cars.html
+
+
+** Personal: Note taking email workflow
+
+Captured On: [2019-03-24 16:04:35] from email
+
+
+
+
+** Welcome to Email This!
+
+Captured On: [2019-03-25 01:43:47] from email
+
+
+		
+
+		
+
+		
+		
+
+		
+    
+Welcome to Email This
+
+
+	
+
+@media only screen and (max-width: 600px) {
+  .email-body_inner, .email-footer {
+    width: 100% !important;
+  }
+}
+@media only screen and (max-width: 500px) {
+  .button {
+    width: 100% !important;
+  }
+}
+
+
+
+	
+
+		
+
+    Weve pulled together some information and resources to help you get started
+
+
+
+		
+
+			
+
+				
+
+					
+
+						
+						
+
+							
+
+								
+
+									
+									
+
+										
+
+											
+    
+Welcome to Email This!
+
+    
+Thanks for trying Email This. Were thrilled to have you on board.
+
+    
+To start saving ad-free articles and web pages to your email inbox, please click the button below.
+
+    
+    
+    
+
+        
+
+            
+
+                
+
+                    
+
+                        
+
+                            
+
+                                
+
+                                    
+
+                                        
+
+                                            Get Started
+                                        
+
+                                    
+
+                                
+
+                            
+
+                        
+
+                    
+
+                
+
+            
+
+        
+
+    
+
+
+
+    
+
+        
+
+            
+
+                
+
+                    
+
+                        
+
+                            
+
+                                
+
+                                    
+
+                                        
+Note:
+ 
+                                    
+                                        Please add bot@emailthis.me to your address book to ensure that your saved bookmarks don't get accidently sent to the Spam/Junk/Promotions folder.
+                                        
+
+                                        
+                                        Alternately, you can also 
+create a separate folder
+ for your bookmarks.
+                                    
+
+                                
+
+                            
+
+                        
+
+                    
+
+                
+
+            
+
+        
+
+    
+
+
+    
+    
+If you have any questions, feel free to 
+email me
+ (I am lightning quick at replying).
+
+    
+
+        Thanks,
+        
+Bharani from Email This
+    
+
+
+    
+
+    
+
+        
+P.S.
+ Need immediate help getting started? Check out our 
+how to save guide
+. Or, just reply to this email, I am always ready to help!
+    
+
+
+
+    
+
+        
+
+            
+
+                
+If youre having trouble with the button above, copy and paste the URL below into your web browser.
+
+                
+https://www.emailthis.me/dc7b13e0-9ba1-436d-b4a9-091bbb65bf61/welcome-firefox
+
+            
+
+        
+
+    
+
+
+										
+
+									
+
+								
+
+							
+
+						
+
+						
+
+							
+
+								
+
+									
+
+										
+
+											
+
+												 2019 Email This. All
+												rights reserved.
+											
+
+											
+
+												
+Pondicherry, India
+											
+
+										
+
+									
+
+								
+
+							
+
+						
+
+					
+
+				
+
+			
+
+		
+
+	
+
+
+
+
+** Article: How to turn a Raspberry Pi into a game console
+
+Captured On: [2019-03-24 23:22:04] from email
+
+How to turn a Raspberry Pi into a game console - 
+https://www.engadget.com/2019/03/24/how-to-turn-a-raspberry-pi-into-a-game-console/
+The Recalbox manager can do other things, too. You can access a variety 
+of settings from the Web manager, including wireless network settings 
+and shaders. You can even press a button to take a screenshot when 
+you're playing games. If you don't like the browser-based manager, 
+you can also access
+ your Raspberry Pi in Windows Explorer or Finder on Mac, similar to how you'd use a 
+network-attached storage device
+.
+
+
+** Article: The Inside Story of Reddit's Redesign
+
+Captured On: [2019-03-24 23:25:43] from email
+
+https://www.wired.com/story/reddit-redesign/
+But another goal goes much deeper: changing the constitution of the 
+site, making it more welcoming to people who never thought they could 
+find a home there before. On the new Reddit, we are all just aliens, 
+exploring the vast community of foreign planets, trying to find our 
+place in the universe.
+
