@@ -1,0 +1,45 @@
+#!/usr/local/bin/python
+
+import poplib
+import email
+from datetime import datetime
+import time
+import utils
+import sys
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from email.header import Header, decode_header, make_header
+from bs4 import BeautifulSoup
+import os
+
+emailAddress = os.environ["NOTE_SYNC_MAIL"]
+emailPassword = os.environ["NOTE_SYNC_PASS"]
+popServer = "pop.gmail.com"
+popPort = 995
+
+pop = utils.pop_connect(emailAddress, emailPassword, popServer, popPort)
+
+resp, mails, octets = pop.list()
+for index in range(len(mails)):
+    try:
+        mailId = index + 1
+        mail = pop.retr(mailId)
+        emailString = "\n".join(mail[1])
+        emailParsed = email.message_from_string(emailString)
+        emailDate = datetime.fromtimestamp(time.mktime(email.utils.parsedate(emailParsed['Date'])))
+        subject = emailParsed['Subject'].decode('ascii', 'ignore').encode('utf-8')
+        try:
+            subject, encode = decode_header(subject)[0]
+        except Exception as inst:
+            subject = subject
+        print "\n** " + subject
+        print "\nCaptured On: [" + str(emailDate) + "] from email\n"
+        html = utils.get_text(emailParsed).decode('ascii', 'ignore').encode('utf-8')
+        soup = BeautifulSoup(html, 'html5lib')
+        print soup.get_text(separator="\n") + "\n"
+    except Exception as inst:
+        print inst
+    finally:
+        pop.dele(mailId)
+
+pop.quit()
