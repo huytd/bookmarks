@@ -179,3 +179,11 @@ Captured On: [2019-03-25 11:42:00] from email
 http://www.fourmilab.ch/etexts/www/barnum/moneygetting/moneygetting_chap12.html
 Engage in one kind of business only, and stick to it faithfully until you succeed, or until your experience shows that you should abandon it. A constant hammering on one nail will generally drive it home at last, so that it can be clinched. When a man's undivided attention is centered on one object, his mind will constantly be suggesting improvements of value, which would escape him if his brain was occupied by a dozen different subjects at once. Many a fortune has slipped through a man's fingers because he was engaged in too many occupations at a time. There is good sense in the old caution against having too many irons in the fire at once. 
 
+
+** Waiting for an element to be created
+
+Captured On: [2019-03-25 16:13:50] from email
+
+https://paul.kinlan.me/waiting-for-an-element-to-be-created/
+a small function called waitForElement that uses the MutationObserver to look for when an element with a given id is added to the DOM. When that element has been detected it will resolve the promise and return the element.
+
