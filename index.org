@@ -145,3 +145,37 @@ find a home there before. On the new Reddit, we are all just aliens,
 exploring the vast community of foreign planets, trying to find our 
 place in the universe.
 
+
+** Utilities for efficient filesystem navigation in emacs
+
+Captured On: [2019-03-25 09:39:40] from email
+
+https://lorefnon.me/2015/11/15/utilities-for-efficient-filesystem-navigation-in-emacs.html
+While Emacs is a fairly productive editor on its own, for navigating 
+through the files in a large project a few community contributed 
+extensions can make things a lot easier
+
+
+** Link to open Gmail in compose mode
+
+Captured On: [2019-03-25 09:49:38] from email
+
+https://mail.google.com/mail/?fs=1&view=cm&shva=1&su=
+Note: If you want to program with this just start adding values to the end of the url above. I have already added a blank subject by ending the above url with &su=, so to add a subject just add a string to the end of the url above. For body, to, cc, and bcc fields use &body=, &to=, &cc=, &bcc= all with strings after word. Depending on your browser you may need to URI escape your field values.
+
+
+** Avoid Debt
+
+Captured On: [2019-03-25 10:12:12] from email
+
+http://www.fourmilab.ch/etexts/www/barnum/moneygetting/moneygetting_chap4.html
+Debt robs a man of his self-respect, and makes him almost despise himself. Grunting and groaning and working for what he has eaten up or worn out, and now when he is called upon to pay up, he has nothing to show for his money; this is properly termed working for a dead horse.
+
+
+** DO NOT SCATTER YOUR POWERS
+
+Captured On: [2019-03-25 11:42:00] from email
+
+http://www.fourmilab.ch/etexts/www/barnum/moneygetting/moneygetting_chap12.html
+Engage in one kind of business only, and stick to it faithfully until you succeed, or until your experience shows that you should abandon it. A constant hammering on one nail will generally drive it home at last, so that it can be clinched. When a man's undivided attention is centered on one object, his mind will constantly be suggesting improvements of value, which would escape him if his brain was occupied by a dozen different subjects at once. Many a fortune has slipped through a man's fingers because he was engaged in too many occupations at a time. There is good sense in the old caution against having too many irons in the fire at once. 
+
