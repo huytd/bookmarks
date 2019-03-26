@@ -1,0 +1,25 @@
+
+** Use Pandoc in Python
+
+Captured On: [2019-03-26 10:06:51]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><div><a href="https://pypi.org/project/pyandoc/">https://pypi.org/project/pyandoc/</a></div><div><br></div><div>First, install Pyandoc:</div><div style="margin-left:40px"><pre>pip install pyandoc</pre></div><div>Then use it like this:</div><div style="margin-left:40px"><pre>doc <span class="gmail-pl-k">=</span> pandoc.Document()
+doc.markdown <span class="gmail-pl-k">=</span> <span class="gmail-pl-s"><span class="gmail-pl-pds">&#39;&#39;&#39;</span></span>
+<span class="gmail-pl-s"># I am an H1 Tag</span>
+<span class="gmail-pl-s"></span>
+<span class="gmail-pl-s">* bullet point</span>
+<span class="gmail-pl-s">* more points</span>
+<span class="gmail-pl-s">* point with [link](<a href="http://kennethreitz.com">http://kennethreitz.com</a>)!</span>
+<span class="gmail-pl-s"><span class="gmail-pl-pds">&#39;&#39;&#39;<br>print doc.rst</span></span></pre></div><br></div>
+#+END_EXPORT
+
+
+** How the Brain Links Gestures, Perception and Meaning | Quanta Magazine
+
+Captured On: [2019-03-26 10:09:04]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><a href="https://www.quantamagazine.org/how-the-brain-links-gestures-perception-and-meaning-20190325/">https://www.quantamagazine.org/how-the-brain-links-gestures-perception-and-meaning-20190325/</a><br><br>Gesture allows us to express ourselves, and it also shapes the way we understand and interpret others</div>
+#+END_EXPORT
+

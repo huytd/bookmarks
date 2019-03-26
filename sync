@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/local/bin/python
 
 import poplib
 import email
@@ -10,8 +10,6 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.header import Header, decode_header, make_header
 import os
-import re
-import pandoc
 
 emailAddress = os.environ["NOTE_SYNC_MAIL"]
 emailPassword = os.environ["NOTE_SYNC_PASS"]
@@ -36,9 +34,7 @@ for index in range(len(mails)):
         print "\n** " + subject
         print "\nCaptured On: [" + str(emailDate) + "]\n"
         html = utils.get_text(emailParsed).decode('ascii', 'ignore').encode('utf-8')
-        doc = pandoc.Document()
-        doc.html = filter(lambda x: not re.match(r'^\s*$', x), html)
-        print doc.org
+        print "#+BEGIN_EXPORT html\n" + html + "\n#+END_EXPORT"
     except Exception as inst:
         print inst
     finally:
