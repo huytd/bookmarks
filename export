@@ -1,5 +1,5 @@
 ./sync >> index.org
-/usr/local/bin/emacs-26.1 index.org --batch -f org-html-export-to-html --kill
+/usr/local/bin/emacs-26.1 -Q /root/.emacs.d/init.el index.org --batch -f org-html-export-to-html --kill
 git add -A
 git commit -m "Auto export"
 git push
