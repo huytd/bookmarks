@@ -188,3 +188,11 @@ Captured On: [2019-03-25 16:13:50] from email
 https://paul.kinlan.me/waiting-for-an-element-to-be-created/
 a small function called waitForElement that uses the MutationObserver to look for when an element with a given id is added to the DOM. When that element has been detected it will resolve the promise and return the element.
 
+
+** How, in general, does Node.js handle 10,000 concurrent requests? -
+ Stack Overflow
+
+Captured On: [2019-03-26 00:51:43] from email
+
+https://stackoverflow.com/questions/34855352/how-in-general-does-node-js-handle-10-000-concurrent-requests
+
