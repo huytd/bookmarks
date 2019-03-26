@@ -196,3 +196,19 @@ Captured On: [2019-03-26 00:51:43] from email
 
 https://stackoverflow.com/questions/34855352/how-in-general-does-node-js-handle-10-000-concurrent-requests
 
+
+** Functional Thinking
+
+Captured On: [2019-03-26 01:04:59] from email
+
+https://www.ebayinc.com/stories/blogs/tech/functional-thinking/
+Imperative thinking became so natural, we see past verbose code. Nonetheless, it requires reading and understanding four lines of code to get to what the code is doing.
+The real gain is not having three lines of code less. Very similar problems occur over and over again, sometimes on the same method. If the functional approach is used, every time we'll write less logic, reducing the odds of introducing errors.
+
+
+** nealford.com • Functional Thinking
+
+Captured On: [2019-03-26 01:05:38] from email
+
+http://nealford.com/functionalthinking.html
+
