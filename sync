@@ -37,7 +37,7 @@ for index in range(len(mails)):
         html = utils.get_text(emailParsed).decode('ascii', 'ignore').encode('utf-8')
         doc = pandoc.Document()
         doc.html = html
-        print doc.org.replace("\\\\\n", "\n")
+        print doc.org.replace('\\\\\\n', '')
     except Exception as inst:
         print inst
     finally:
