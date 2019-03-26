@@ -1,6 +1,6 @@
 
 #+TITLE: Captured
-#+OPTIONS: title:nil H:2
+#+OPTIONS: title:nil H:2 html-postample:nil
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=EB+Garamond" />
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="capture.css" />
 #+HTML_HEAD: <meta name="viewport" content="width=device-width, initial-scale=1">
