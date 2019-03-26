@@ -2,6 +2,7 @@
 #+OPTIONS: title:nil H:2
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=EB+Garamond" />
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="capture.css" />
+#+HTML_HEAD: <meta name="viewport" content="width=device-width, initial-scale=1">
 * Inbox
 ** React Hooks in PureScript
  Source: [2019-03-21 Thu], [[https://github.com/spicydonuts/purescript-react-basic-hooks][spicydonuts/purescript-react-basic-hooks: An implementation of React hooks on top of purescript-react-basic]]
