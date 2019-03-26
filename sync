@@ -10,6 +10,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.header import Header, decode_header, make_header
 import os
+import re
 import pandoc
 
 emailAddress = os.environ["NOTE_SYNC_MAIL"]
