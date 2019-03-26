@@ -9,8 +9,8 @@ import sys
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.header import Header, decode_header, make_header
-from bs4 import BeautifulSoup
 import os
+import pandoc
 
 emailAddress = os.environ["NOTE_SYNC_MAIL"]
 emailPassword = os.environ["NOTE_SYNC_PASS"]
@@ -33,10 +33,11 @@ for index in range(len(mails)):
         except Exception as inst:
             subject = subject
         print "\n** " + subject
-        print "\nCaptured On: [" + str(emailDate) + "] from email\n"
+        print "\nCaptured On: [" + str(emailDate) + "]\n"
         html = utils.get_text(emailParsed).decode('ascii', 'ignore').encode('utf-8')
-        soup = BeautifulSoup(html, 'html5lib')
-        print soup.get_text(separator="\n") + "\n"
+        doc = pandoc.Document()
+        doc.html = html
+        print doc.org
     except Exception as inst:
         print inst
     finally:
