@@ -1,3 +1,4 @@
+
 #+TITLE: Captured
 #+OPTIONS: title:nil H:2
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=EB+Garamond" />
@@ -211,6 +212,7 @@ The real gain is not having three lines of code less. Very similar problems occu
 Captured On: [2019-03-26 01:05:38] from email
 
 http://nealford.com/functionalthinking.html
+
 
 
 

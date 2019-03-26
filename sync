@@ -37,7 +37,7 @@ for index in range(len(mails)):
         html = utils.get_text(emailParsed).decode('ascii', 'ignore').encode('utf-8')
         doc = pandoc.Document()
         doc.html = filter(lambda x: not re.match(r'^\s*$', x), html)
-        print doc.org
+        print doc.org.replace("\\ ", "")
     except Exception as inst:
         print inst
     finally:
