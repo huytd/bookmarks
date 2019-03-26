@@ -213,6 +213,7 @@ Captured On: [2019-03-26 01:05:38] from email
 http://nealford.com/functionalthinking.html
 
 
+
 ** Use Pandoc in Python
 
 Captured On: [2019-03-26 10:06:51]
@@ -235,7 +236,7 @@ Captured On: [2019-03-26 10:06:51]
   <div>
 #+END_HTML
 
-\\
+
 
 #+BEGIN_HTML
   </div>
@@ -293,7 +294,7 @@ Then use it like this:
   </div>
 #+END_HTML
 
-\\
+
 
 #+BEGIN_HTML
   </div>
@@ -308,8 +309,8 @@ Captured On: [2019-03-26 10:09:04]
   <div dir="ltr">
 #+END_HTML
 
-[[https://www.quantamagazine.org/how-the-brain-links-gestures-perception-and-meaning-20190325/]]\\
-\\
+[[https://www.quantamagazine.org/how-the-brain-links-gestures-perception-and-meaning-20190325/]]
+
 Gesture allows us to express ourselves, and it also shapes the way we
 understand and interpret others
 
