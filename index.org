@@ -288,3 +288,11 @@ they are already familiar. The new ad will be more interesting to
 consumers, so they will be more likely to take note of it.</div><div><br></div><div>Repetition of an ad may signal to consumers that the brand or product is a good buy, or a quality product. May convince consumers that the manufacturer is willing to spend a lot 
 of money on advertising because the product is a good one.</div></div>
 #+END_EXPORT
+
+** Everything I know about freelancing | Andy Adams
+
+Captured On: [2019-03-29 13:40:57]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><a href="https://andyadams.org/everything-i-know-about-freelancing/">https://andyadams.org/everything-i-know-about-freelancing/</a><br><br></div>
+#+END_EXPORT
