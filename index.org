@@ -296,3 +296,11 @@ Captured On: [2019-03-29 13:40:57]
 #+BEGIN_EXPORT html
 <div dir="ltr"><a href="https://andyadams.org/everything-i-know-about-freelancing/">https://andyadams.org/everything-i-know-about-freelancing/</a><br><br></div>
 #+END_EXPORT
+
+** Productivity Isn’t About Time Management. It’s About Attention Management. - The New York Times
+
+Captured On: [2019-03-31 23:05:57]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><a href="https://www.nytimes.com/2019/03/28/smarter-living/productivity-isnt-about-time-management-its-about-attention-management.html">https://www.nytimes.com/2019/03/28/smarter-living/productivity-isnt-about-time-management-its-about-attention-management.html</a><br><br></div>
+#+END_EXPORT
