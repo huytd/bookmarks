@@ -15,7 +15,7 @@
   #+BEGIN_QUOTE
  Admittedly, in most cases, breaking a program does not cause any large explosions. But when a program, by someone's ignorant tinkering, has degenerated into a ramshackle mass of errors, reshaping it into something sensible is a terrible labour ― sometimes you might just as well start over.
  #+END_QUOTE
-**  [[https://www.nytimes.com/2019/03/12/technology/how-to-disappear-surveillance-state.html][How a Bitcoin Evangelist Made Himself Vanish, in 15 (Not So Easy) Steps - The New York Times]] 
+**  [[https://www.nytimes.com/2019/03/12/technology/how-to-disappear-surveillance-state.html][How a Bitcoin Evangelist Made Himself Vanish, in 15 (Not So Easy) Steps - The New York Times]]  :ARCHIVE:
  Captured On: [2019-03-21 Thu 11:04]
 
  Impressive 
@@ -52,7 +52,7 @@
 
  Topics you will not find in this series include monoids, functors, applicatives, and category theory. 
  #+END_QUOTE
-** Figma rewrite parts of its TypeScript multiplayer server with Rust
+** Figma rewrite parts of its TypeScript multiplayer server with Rust :ARCHIVE:
  Source: [2019-03-22 Fri], [[https://www.figma.com/blog/rust-in-production-at-figma/][How Mozilla’s Rust dramatically improved our server-side performance]]
  
 Their problem:
@@ -64,7 +64,7 @@ And the solution:
 #+BEGIN_QUOTE
 we did by moving the performance-sensitive parts of the multiplayer server into a separate child process. That child process is written in Rust and communicates with its host process using stdin and stdout.
 #+END_QUOTE
-** Recover the dropped git stash
+** Recover the dropped git stash :ARCHIVE:
  Source: [2019-03-22 Fri], [[http://inlehmansterms.net/2015/09/19/recover-a-dropped-git-stash/][Recover a dropped Git stash - In Lehman's Terms]]
   #+BEGIN_QUOTE
  Dangling commit: commits that not linked to any commit / branch,.. for most of the times, dropped stashes can be found as a dangling commit.
@@ -158,7 +158,7 @@ through the files in a large project a few community contributed
 extensions can make things a lot easier
 
 
-** Link to open Gmail in compose mode
+** Link to open Gmail in compose mode :ARCHIVE:
 
 Captured On: [2019-03-25 09:49:38] from email
 
@@ -166,7 +166,7 @@ https://mail.google.com/mail/?fs=1&view=cm&shva=1&su=
 Note: If you want to program with this just start adding values to the end of the url above. I have already added a blank subject by ending the above url with &su=, so to add a subject just add a string to the end of the url above. For body, to, cc, and bcc fields use &body=, &to=, &cc=, &bcc= all with strings after word. Depending on your browser you may need to URI escape your field values.
 
 
-** Avoid Debt
+** Avoid Debt :ARCHIVE:
 
 Captured On: [2019-03-25 10:12:12] from email
 
@@ -174,7 +174,7 @@ http://www.fourmilab.ch/etexts/www/barnum/moneygetting/moneygetting_chap4.html
 Debt robs a man of his self-respect, and makes him almost despise himself. Grunting and groaning and working for what he has eaten up or worn out, and now when he is called upon to pay up, he has nothing to show for his money; this is properly termed working for a dead horse.
 
 
-** DO NOT SCATTER YOUR POWERS
+** DO NOT SCATTER YOUR POWERS :ARCHIVE:
 
 Captured On: [2019-03-25 11:42:00] from email
 
@@ -182,7 +182,7 @@ http://www.fourmilab.ch/etexts/www/barnum/moneygetting/moneygetting_chap12.html
 Engage in one kind of business only, and stick to it faithfully until you succeed, or until your experience shows that you should abandon it. A constant hammering on one nail will generally drive it home at last, so that it can be clinched. When a man's undivided attention is centered on one object, his mind will constantly be suggesting improvements of value, which would escape him if his brain was occupied by a dozen different subjects at once. Many a fortune has slipped through a man's fingers because he was engaged in too many occupations at a time. There is good sense in the old caution against having too many irons in the fire at once. 
 
 
-** Waiting for an element to be created
+** Waiting for an element to be created :ARCHIVE:
 
 Captured On: [2019-03-25 16:13:50] from email
 
@@ -222,7 +222,7 @@ http://nealford.com/functionalthinking.html
 
 
 
-** Use Pandoc in Python
+** Use Pandoc in Python :ARCHIVE:
 
 Captured On: [2019-03-26 10:06:51]
 
@@ -253,7 +253,7 @@ Captured On: [2019-03-26 16:20:40]
 <div dir="ltr"><a href="https://tik.dev/how-to-price-your-side-project/">https://tik.dev/how-to-price-your-side-project/</a><br><br>There are three pricing strategies for SaaS products.<br><div><br></div><div style="margin-left:40px"><b>Cost-Plus Pricing</b></div><div style="margin-left:40px"><br>First, you calculate everything that costs money for your project and then add a healthy margin on top of it. The margin is your profit, and it represents the value that you give to your customers.<br><br>The challenge with this pricing strategy is the unpredictability of the future. If your costs unexpectedly go up in the future your profit margin will drop and you will have to increase your prices.<br></div><div style="margin-left:40px"><br></div><div style="margin-left:40px"><b>Competitor-Based Pricing</b></div><div style="margin-left:40px"><br>Check their pricing tables so you can come up with yours.<br><br>This pricing strategy is simple and less prone to be wrong. Your future customers wont think that your product is too expensive or too cheap.<br><br>The one downside is that you dont want to be guided by your competitors from day one. This strategy mostly used in combination with other pricing models.<br></div><div style="margin-left:40px"><br></div><div style="margin-left:40px"><b>Value-based pricing</b></div><div style="margin-left:40px"><br>Solely based on your customer surveys and research. You want to know how much your customers are willing to pay for your product, and the only way to do so is to go and talk to them. Most companies use in-product surveys to collect this data.<br><br>However, this model can only be applied after some initial iterations when you have a decent customer base.<br></div><br>You may want to re-apply this strategy often, because your customer base and the market needs keep changing.</div>
 #+END_EXPORT
 
-** String.prototype.match() - JavaScript | MDN
+** String.prototype.match() - JavaScript | MDN :ARCHIVE:
 
 Captured On: [2019-03-26 21:32:58]
 
@@ -269,7 +269,7 @@ Captured On: [2019-03-27 14:21:45]
 <div dir="ltr"><a href="https://bronnieware.com/blog/regrets-of-the-dying/">https://bronnieware.com/blog/regrets-of-the-dying/</a><br><br><b>1. I wish Id had the courage to live a life true to myself, not the life others expected of me.<br></b><br>This was the most common regret of all. When people realise that their life is almost over and look back clearly on it, it is easy to see how many dreams have gone unfulfilled. Most people had not honoured even a half of their dreams and had to die knowing that it was due to choices they had made, or not made.<br><br>It is very important to try and honour at least some of your dreams along the way. From the moment that you lose your health, it is too late. Health brings a freedom very few realise, until they no longer have it.<br><b><br>2. I wish I hadnt worked so hard.</b><br><br>This came from every male patient that I nursed. They missed their childrens youth and their partners companionship. Women also spoke of this regret. But as most were from an older generation, many of the female patients had not been breadwinners. All of the men I nursed deeply regretted spending so much of their lives on the treadmill of a work existence.<br><br>By simplifying your lifestyle and making conscious choices along the way, it is possible to not need the income that you think you do. And by creating more space in your life, you become happier and more open to new opportunities, ones more suited to your new lifestyle.<br><br><b>3. I wish Id had the courage to express my feelings.</b><br><br>Many people suppressed their feelings in order to keep peace with others. As a result, they settled for a mediocre existence and never became who they were truly capable of becoming. Many developed illnesses relating to the bitterness and resentment they carried as a result.<br><br>We cannot control the reactions of others. However, although people may initially react when you change the way you are by speaking honestly, in the end it raises the relationship to a whole new and healthier level. Either that or it releases the unhealthy relationship from your life. Either way, you win.<br><br><b>4. I wish I had stayed in touch with my friends.</b><br><br>Often they would not truly realise the full benefits of old friends until their dying weeks and it was not always possible to track them down. Many had become so caught up in their own lives that they had let golden friendships slip by over the years. There were many deep regrets about not giving friendships the time and effort that they deserved. Everyone misses their friends when they are dying.<br><br>It is common for anyone in a busy lifestyle to let friendships slip. But when you are faced with your approaching death, the physical details of life fall away. People do want to get their financial affairs in order if possible. But it is not money or status that holds the true importance for them. They want to get things in order more for the benefit of those they love. Usually though, they are too ill and weary to ever manage this task. It all comes down to love and relationships in the end. That is all that remains in the final weeks, love and relationships.<br><br><b>5. I wish that I had let myself be happier.</b><br><br>This is a surprisingly common one. Many did not realise until the end that happiness is a choice. They had stayed stuck in old patterns and habits. The so-called comfort of familiarity overflowed into their emotions, as well as their physical lives. Fear of change had them pretending to others, and to their selves, that they were content. When deep within, they longed to laugh properly and have silliness in their life again.<br><br>When you are on your deathbed, what others think of you is a long way from your mind. How wonderful to be able to let go and smile again, long before you are dying.<br><br><b>Life is a choice. It is YOUR life. </b></div>
 #+END_EXPORT
 
-** Future-proof Reading – αλεx π
+** Future-proof Reading – αλεx π :ARCHIVE:
 
 Captured On: [2019-03-28 10:18:42]
 
