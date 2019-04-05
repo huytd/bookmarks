@@ -330,3 +330,11 @@ Captured On: [2019-04-03 00:24:42]
 #+BEGIN_EXPORT html
 <div dir="ltr"><a href="https://www.linuxjournal.com/content/25-years-later-interview-linus-torvalds">https://www.linuxjournal.com/content/25-years-later-interview-linus-torvalds</a><br><br></div>
 #+END_EXPORT
+
+** How eBay Uses Microinteractions to Delight Customers
+
+Captured On: [2019-04-04 17:13:10]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><div><a href="https://www.ebayinc.com/stories/blogs/tech/how-ebay-uses-microinteractions-to-delight-customers-in-china/">https://www.ebayinc.com/stories/blogs/tech/how-ebay-uses-microinteractions-to-delight-customers-in-china/</a></div><div><br></div><div>microinteractions can positively impact our experience at an even larger scale. They can affect the <strong>perception of the brand</strong> or the <strong>speed of the application</strong>. They can impact the <strong>trust a user has</strong> in the product or <strong>help educate users</strong> on complex features. They can even simply be used to<strong> delight the users</strong> at important moments.</div><br></div>
+#+END_EXPORT
