@@ -357,3 +357,11 @@ Captured On: [2019-04-05 00:42:57]
 chocolate bar when you are hungry and using that to inform your 
 decision. If you do this youre more likely to eat something healthy.</div></div>
 #+END_EXPORT
+
+** Recognising palindromes in Haskell
+
+Captured On: [2019-04-05 16:10:57]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><a href="http://www.haskellcraft.com/craft3e/Palindromes.html">http://www.haskellcraft.com/craft3e/Palindromes.html</a><br><br></div>
+#+END_EXPORT
