@@ -365,3 +365,11 @@ Captured On: [2019-04-05 16:10:57]
 #+BEGIN_EXPORT html
 <div dir="ltr"><a href="http://www.haskellcraft.com/craft3e/Palindromes.html">http://www.haskellcraft.com/craft3e/Palindromes.html</a><br><br></div>
 #+END_EXPORT
+
+** Thinking in Ramda
+
+Captured On: [2019-04-08 00:34:13]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><a href="http://randycoulman.com/blog/categories/thinking-in-ramda/">http://randycoulman.com/blog/categories/thinking-in-ramda/</a><br><br></div>
+#+END_EXPORT
