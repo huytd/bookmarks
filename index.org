@@ -373,3 +373,11 @@ Captured On: [2019-04-08 00:34:13]
 #+BEGIN_EXPORT html
 <div dir="ltr"><a href="http://randycoulman.com/blog/categories/thinking-in-ramda/">http://randycoulman.com/blog/categories/thinking-in-ramda/</a><br><br></div>
 #+END_EXPORT
+
+** The Science Behind Why You Procrastinate In The Afternoon
+
+Captured On: [2019-04-10 11:12:10]
+
+#+BEGIN_EXPORT html
+
+#+END_EXPORT
