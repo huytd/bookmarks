@@ -381,3 +381,11 @@ Captured On: [2019-04-10 11:12:10]
 #+BEGIN_EXPORT html
 
 #+END_EXPORT
+
+** Download playlist with youtube-dl
+
+Captured On: [2019-04-10 14:07:51]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><a href="https://askubuntu.com/questions/564567/how-to-download-playlist-from-youtube-dl">https://askubuntu.com/questions/564567/how-to-download-playlist-from-youtube-dl</a><br><br><span style="background-color:rgb(238,238,238)"><span style="font-family:monospace,monospace">youtube-dl --extract-audio --audio-format mp3 -o &quot;%(title)s.%(ext)s&quot; &lt;url to playlist&gt; </span></span></div>
+#+END_EXPORT
