@@ -405,3 +405,11 @@ Captured On: [2019-04-13 10:41:21]
 #+BEGIN_EXPORT html
 <div dir="auto"><br></div><a href="https://danluu.com/startup-tradeoffs/">https://danluu.com/startup-tradeoffs/</a><br>
 #+END_EXPORT
+
+** A graphical introduction to dynamic programming
+
+Captured On: [2019-04-16 22:15:44]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><a href="https://avikdas.com/2019/04/15/a-graphical-introduction-to-dynamic-programming.html">https://avikdas.com/2019/04/15/a-graphical-introduction-to-dynamic-programming.html</a><br><br></div>
+#+END_EXPORT
