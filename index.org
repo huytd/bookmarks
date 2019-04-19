@@ -413,3 +413,11 @@ Captured On: [2019-04-16 22:15:44]
 #+BEGIN_EXPORT html
 <div dir="ltr"><a href="https://avikdas.com/2019/04/15/a-graphical-introduction-to-dynamic-programming.html">https://avikdas.com/2019/04/15/a-graphical-introduction-to-dynamic-programming.html</a><br><br></div>
 #+END_EXPORT
+
+** Bodil dot lol : Learning Parser Combinators With Rust
+
+Captured On: [2019-04-18 22:30:43]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><a href="https://bodil.lol/parser-combinators/">https://bodil.lol/parser-combinators/</a><br><br></div>
+#+END_EXPORT
