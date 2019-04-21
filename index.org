@@ -436,3 +436,36 @@ absurd amount of direct keys for manipulation.</div></blockquote><div><br></div>
 Emacs instance and share the buffer list, kill ring, undo history and 
 other state.</div></blockquote><div><br></div><div>Of course, VIM has a larger choice of scripting language:</div><div><br></div><blockquote class="gmail_quote" style="margin:0px 0px 0px 0.8ex;border-left:1px solid rgb(204,204,204);padding-left:1ex"><div>Extensible and customizable through Vim script or APIs for interpreted languages such as Python, Ruby, Perl, and Lua</div></blockquote><div><br></div><div>I&#39;ve tried terminal emulator before in VIM but it sucks, so people use VIM inside a terminal. It&#39;s reversed with Emacs, people use terminal inside Emacs.<br></div><div><br></div><div>It&#39;s worth to mention that both are worst at handling large files/buffers, VIM is slightly better than Emacs but I&#39;d use some modern editor for that task, luckily, I don&#39;t have to edit that much &gt;50MB files. <br></div></div>
 #+END_EXPORT
+
+** Go sleep to make a better software
+
+Captured On: [2019-04-21 13:31:14]
+
+#+BEGIN_EXPORT html
+<div><br><br><a href="https://arxiv.org/pdf/1805.02544.pdf">https://arxiv.org/pdf/1805.02544.pdf</a><br></div>
+#+END_EXPORT
+
+** Sleep deprivation: Impact on cognitive performance
+
+Captured On: [2019-04-21 13:31:52]
+
+#+BEGIN_EXPORT html
+<div>Sleep deprivation: Impact on cognitive performance<br><br><br><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2656292/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2656292/</a><br></div>
+#+END_EXPORT
+
+** Impact of overworked
+
+Captured On: [2019-04-21 13:33:10]
+
+#+BEGIN_EXPORT html
+<div dir="auto"><p style="margin:0px;font-stretch:normal;font-size:12px;line-height:normal;font-family:Helvetica"><span style="font-size:12pt">If you do 50 hours of work a week, after 8-10 weeks you&#39;re less productive per week than someone doing 40 hpw:</span></p></div><br><a href="http://web.archive.org/web/20090824001133/http://www.curt.org/pdf/156.pdf">http://web.archive.org/web/20090824001133/http://www.curt.org/pdf/156.pdf</a><br>
+#+END_EXPORT
+
+** neverworkintheory.github.io: Happy software developers solve problems
+ better: psychological measurements in empirical software engineering
+
+Captured On: [2019-04-21 13:34:11]
+
+#+BEGIN_EXPORT html
+<div><div dir="auto"><br></div></div><div dir="auto"><div dir="auto">Happy software developers solve problems better: psychological measurements in empirical software engineering</div><br><br><br><a href="http://neverworkintheory.org/2014/05/01/happy-sw-devs-solve-problems-better.html">http://neverworkintheory.org/2014/05/01/happy-sw-devs-solve-problems-better.html</a><br></div>
+#+END_EXPORT
