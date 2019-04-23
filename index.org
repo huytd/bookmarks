@@ -478,3 +478,11 @@ Captured On: [2019-04-22 16:54:57]
 #+BEGIN_EXPORT html
 <div dir="ltr"><div>Setup a simple desktop environment, install tightvncserver and a user for it, then use mac&#39;s screen sharing app to connect.<br></div><div><a href="https://medium.com/@achekulaev/how-to-set-up-linux-desktop-environment-in-the-cloud-with-digitalocean-droplet-e51ae4e066b">https://medium.com/@achekulaev/how-to-set-up-linux-desktop-environment-in-the-cloud-with-digitalocean-droplet-e51ae4e066b</a></div><br></div>
 #+END_EXPORT
+
+** Để một Hyper-casual game được đánh giá là có tiềm năng trở thành hit. Không cần biết bạn nói rằng game của bạn hay đến mức nào, cần bắt buộc thỏa mãn tất cả các yếu tố sau Tỉ lệ người chơi quay lại (Retention Rate) sau ngày đầu tiên phải cực cao (nhiều khả năng D1>=55%), ở nhiều trường hợp cần đạt thêm D7>=25%. Giá cho mỗi lượt cài đặt – CPI (Cost per Install) của game khi chạy quảng cáo phải đạt mức cực rẻ.
+
+Captured On: [2019-04-23 15:12:28]
+
+#+BEGIN_EXPORT html
+<div> mt Hyper-casual game c nh gi l c tim nng tr thnh hit. Khng cn bit bn ni rng game ca bn hay n mc no, cn bt buc tha mn tt c cc yu t sau<br><br><div dir="auto">- T l ngi chi quay li (Retention Rate) sau ngy u tin phi cc cao (nhiu kh nng D1&gt;=55%),  nhiu trng hp cn t thm D7&gt;=25%.</div><br><div dir="auto">- Gi cho mi lt ci t  CPI (Cost per Install) ca game khi chy qung co phi t mc cc r.</div><br></div>
+#+END_EXPORT
