@@ -469,3 +469,12 @@ Captured On: [2019-04-21 13:34:11]
 #+BEGIN_EXPORT html
 <div><div dir="auto"><br></div></div><div dir="auto"><div dir="auto">Happy software developers solve problems better: psychological measurements in empirical software engineering</div><br><br><br><a href="http://neverworkintheory.org/2014/05/01/happy-sw-devs-solve-problems-better.html">http://neverworkintheory.org/2014/05/01/happy-sw-devs-solve-problems-better.html</a><br></div>
 #+END_EXPORT
+
+** How to set up Linux desktop environment in the cloud with
+ DigitalOcean droplet
+
+Captured On: [2019-04-22 16:54:57]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><div>Setup a simple desktop environment, install tightvncserver and a user for it, then use mac&#39;s screen sharing app to connect.<br></div><div><a href="https://medium.com/@achekulaev/how-to-set-up-linux-desktop-environment-in-the-cloud-with-digitalocean-droplet-e51ae4e066b">https://medium.com/@achekulaev/how-to-set-up-linux-desktop-environment-in-the-cloud-with-digitalocean-droplet-e51ae4e066b</a></div><br></div>
+#+END_EXPORT
