@@ -494,3 +494,11 @@ Captured On: [2019-04-27 16:12:19]
 #+BEGIN_EXPORT html
 <div><a href="https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf">https://homepages.inf.ed.ac.uk/wadler/papers/papers-we-love/milner-type-polymorphism.pdf</a></div>
 #+END_EXPORT
+
+** Functional Programming Patterns (BuildStuff '14)
+
+Captured On: [2019-04-29 18:04:51]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><div>Great slide</div><div><br></div><div><a href="https://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt">https://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt</a></div><br></div>
+#+END_EXPORT
