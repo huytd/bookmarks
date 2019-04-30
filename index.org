@@ -502,3 +502,11 @@ Captured On: [2019-04-29 18:04:51]
 #+BEGIN_EXPORT html
 <div dir="ltr"><div>Great slide</div><div><br></div><div><a href="https://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt">https://www.slideshare.net/ScottWlaschin/fp-patterns-buildstufflt</a></div><br></div>
 #+END_EXPORT
+
+** Redo in Emacs
+
+Captured On: [2019-04-30 14:08:24]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><a href="http://ergoemacs.org/emacs/emacs_best_redo_mode.html">http://ergoemacs.org/emacs/emacs_best_redo_mode.html</a><br><br>in plain emacs, to redo, just press Ctrl+g first then undo. Further undo will be redo. Press Ctrl+g again to reverse direction. If you are careful, one can avoid the undo/redo roller-coaster confusion.</div>
+#+END_EXPORT
