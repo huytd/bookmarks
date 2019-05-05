@@ -518,3 +518,13 @@ Captured On: [2019-05-01 01:19:11]
 #+BEGIN_EXPORT html
 <div dir="ltr"><div><a href="https://maxbittker.com/making-sandspiel">https://maxbittker.com/making-sandspiel</a><br></div><div><br></div><div>Will do it someday<br></div></div>
 #+END_EXPORT
+
+** RxSwift and Animations
+
+Captured On: [2019-05-04 22:50:04]
+
+#+BEGIN_EXPORT html
+https://www.toptal.com/ios/rxswift-animations-ios
+
+A good article showing how you can do animation using reactive programming
+#+END_EXPORT
