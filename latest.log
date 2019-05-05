@@ -1,5 +1,3 @@
-./export: 2: ./export: /usr/local/bin/emacs-26.1: not found
-On branch master
-Your branch is up-to-date with 'origin/master'.
-nothing to commit, working directory clean
-Everything up-to-date
+ad-handle-definition: ‘term’ got redefined
+Turn on helm-projectile key bindings
+Truncate long lines disabled
