@@ -536,3 +536,11 @@ Captured On: [2019-05-14 21:49:21]
 #+BEGIN_EXPORT html
 <div dir="auto"><br></div><a href="https://raw.githubusercontent.com/ESWAT/john-carmack-plan-archive/master/by_day/johnc_plan_19960802.txt">https://raw.githubusercontent.com/ESWAT/john-carmack-plan-archive/master/by_day/johnc_plan_19960802.txt</a><br>
 #+END_EXPORT
+
+** Getting Your First Gig as a Freelance Developer
+
+Captured On: [2019-05-15 09:22:50]
+
+#+BEGIN_EXPORT html
+<div dir="auto"><a href="https://www.codementor.io/blog/first-job-6u61oxboc1">https://www.codementor.io/blog/first-job-6u61oxboc1</a><br></div>
+#+END_EXPORT
