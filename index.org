@@ -528,3 +528,11 @@ https://www.toptal.com/ios/rxswift-animations-ios
 
 A good article showing how you can do animation using reactive programming
 #+END_EXPORT
+
+** John Carmack Plan
+
+Captured On: [2019-05-14 21:49:21]
+
+#+BEGIN_EXPORT html
+<div dir="auto"><br></div><a href="https://raw.githubusercontent.com/ESWAT/john-carmack-plan-archive/master/by_day/johnc_plan_19960802.txt">https://raw.githubusercontent.com/ESWAT/john-carmack-plan-archive/master/by_day/johnc_plan_19960802.txt</a><br>
+#+END_EXPORT
