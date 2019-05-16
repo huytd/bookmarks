@@ -544,3 +544,11 @@ Captured On: [2019-05-15 09:22:50]
 #+BEGIN_EXPORT html
 <div dir="auto"><a href="https://www.codementor.io/blog/first-job-6u61oxboc1">https://www.codementor.io/blog/first-job-6u61oxboc1</a><br></div>
 #+END_EXPORT
+
+** Nobody give a shit about your product
+
+Captured On: [2019-05-15 22:07:27]
+
+#+BEGIN_EXPORT html
+<div><a href="https://link.medium.com/BIgewNaeJW">https://link.medium.com/BIgewNaeJW</a><br></div>
+#+END_EXPORT
