@@ -568,3 +568,11 @@ Captured On: [2019-05-26 22:59:11]
 #+BEGIN_EXPORT html
 <div>Timeboxing Trilogy, Part 1: What Is Timeboxing, Why Does It Work, And Why Should You Care?  AJATT | All Japanese All The Time<br><br><br><a href="http://www.alljapaneseallthetime.com/blog/timeboxing-trilogy-part-1-what-and-why/">http://www.alljapaneseallthetime.com/blog/timeboxing-trilogy-part-1-what-and-why/</a><br></div>
 #+END_EXPORT
+
+** Org-Agenda as a Calendar
+
+Captured On: [2019-05-26 23:34:34]
+
+#+BEGIN_EXPORT html
+<div><div dir="auto">Org-Agenda as a Calendar, timeboxing</div><br><br><br><a href="https://errickson.net/org_agenda_calendar.html">https://errickson.net/org_agenda_calendar.html</a><br></div>
+#+END_EXPORT
