@@ -560,3 +560,11 @@ Captured On: [2019-05-23 20:49:41]
 #+BEGIN_EXPORT html
 <div><ul style="box-sizing:border-box;margin:0px 0px 16px;padding:0px 0px 0px 48px;border:0px;font-family:BlinkMacSystemFont,-apple-system,&quot;Segoe UI&quot;,Roboto,Oxygen,Ubuntu,Cantarell,&quot;Fira Sans&quot;,&quot;Droid Sans&quot;,&quot;Helvetica Neue&quot;,Helvetica,Arial,sans-serif;font-size:15px;font-stretch:inherit;line-height:inherit;vertical-align:baseline;list-style-position:initial;color:rgb(51,51,51)"><li style="box-sizing:border-box;margin:0px;padding:0px;border:0px;font-family:inherit;font-size:inherit;font-style:inherit;font-variant-caps:inherit;font-stretch:inherit;line-height:inherit;vertical-align:baseline">If you really need access tokens in the front-end, get them via (secure &amp; authenticated) API</li></ul><br><a href="https://drivy.engineering/javascript-security?sfns=mo">https://drivy.engineering/javascript-security?sfns=mo</a><br></div>
 #+END_EXPORT
+
+** Timeboxing Trilogy, Part 1: What Is Timeboxing, Why Does It Work, And Why Should You Care? « AJATT | All Japanese All The Time
+
+Captured On: [2019-05-26 22:59:11]
+
+#+BEGIN_EXPORT html
+<div>Timeboxing Trilogy, Part 1: What Is Timeboxing, Why Does It Work, And Why Should You Care?  AJATT | All Japanese All The Time<br><br><br><a href="http://www.alljapaneseallthetime.com/blog/timeboxing-trilogy-part-1-what-and-why/">http://www.alljapaneseallthetime.com/blog/timeboxing-trilogy-part-1-what-and-why/</a><br></div>
+#+END_EXPORT
