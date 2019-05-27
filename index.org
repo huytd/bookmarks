@@ -576,3 +576,11 @@ Captured On: [2019-05-26 23:34:34]
 #+BEGIN_EXPORT html
 <div><div dir="auto">Org-Agenda as a Calendar, timeboxing</div><br><br><br><a href="https://errickson.net/org_agenda_calendar.html">https://errickson.net/org_agenda_calendar.html</a><br></div>
 #+END_EXPORT
+
+** Flawless Typography Checklist · Typewolf
+
+Captured On: [2019-05-27 00:09:17]
+
+#+BEGIN_EXPORT html
+<div>Flawless Typography Checklist  Typewolf<br><br><br><a href="https://www.typewolf.com/checklist">https://www.typewolf.com/checklist</a><br></div>
+#+END_EXPORT
