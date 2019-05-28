@@ -584,3 +584,12 @@ Captured On: [2019-05-27 00:09:17]
 #+BEGIN_EXPORT html
 <div>Flawless Typography Checklist  Typewolf<br><br><br><a href="https://www.typewolf.com/checklist">https://www.typewolf.com/checklist</a><br></div>
 #+END_EXPORT
+
+** Behind the scenes of 24/7 service: The realities of 'owning' a
+ Japanese convenience store | The Japan Times
+
+Captured On: [2019-05-27 22:41:03]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><a href="https://www.japantimes.co.jp/news/2019/05/27/national/behind-scenes-24-7-service-realities-owning-japanese-convenience-store/">https://www.japantimes.co.jp/news/2019/05/27/national/behind-scenes-24-7-service-realities-owning-japanese-convenience-store/</a><br><br>The realities of &#39;owning&#39; a Japanese convenience store</div>
+#+END_EXPORT
