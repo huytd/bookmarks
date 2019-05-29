@@ -593,3 +593,11 @@ Captured On: [2019-05-27 22:41:03]
 #+BEGIN_EXPORT html
 <div dir="ltr"><a href="https://www.japantimes.co.jp/news/2019/05/27/national/behind-scenes-24-7-service-realities-owning-japanese-convenience-store/">https://www.japantimes.co.jp/news/2019/05/27/national/behind-scenes-24-7-service-realities-owning-japanese-convenience-store/</a><br><br>The realities of &#39;owning&#39; a Japanese convenience store</div>
 #+END_EXPORT
+
+** Migrating from Backbone.js to React.js without losing it
+
+Captured On: [2019-05-29 01:48:38]
+
+#+BEGIN_EXPORT html
+<div>Migrating from Backbone.js to React.js without losing it<br><br><br><a href="https://medium.com/preply-engineering/migrating-from-backbone-js-to-react-js-without-losing-it-a8b383a102fe">https://medium.com/preply-engineering/migrating-from-backbone-js-to-react-js-without-losing-it-a8b383a102fe</a><br></div>
+#+END_EXPORT
