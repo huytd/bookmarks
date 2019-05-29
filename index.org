@@ -601,3 +601,12 @@ Captured On: [2019-05-29 01:48:38]
 #+BEGIN_EXPORT html
 <div>Migrating from Backbone.js to React.js without losing it<br><br><br><a href="https://medium.com/preply-engineering/migrating-from-backbone-js-to-react-js-without-losing-it-a8b383a102fe">https://medium.com/preply-engineering/migrating-from-backbone-js-to-react-js-without-losing-it-a8b383a102fe</a><br></div>
 #+END_EXPORT
+
+** [guide] How-to: Program your Pok3r -- Assign bottom right modifiers
+ as arrow keys. - MechanicalKeyboards
+
+Captured On: [2019-05-29 06:12:36]
+
+#+BEGIN_EXPORT html
+<div>[guide] How-to: Program your Pok3r -- Assign bottom right modifiers as arrow keys. - MechanicalKeyboards<br><br><br><a href="https://www.reddit.com/r/MechanicalKeyboards/comments/40obmk/guide_howto_program_your_pok3r_assign_bottom/">https://www.reddit.com/r/MechanicalKeyboards/comments/40obmk/guide_howto_program_your_pok3r_assign_bottom/</a><br></div>
+#+END_EXPORT
