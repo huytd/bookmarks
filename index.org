@@ -610,3 +610,11 @@ Captured On: [2019-05-29 06:12:36]
 #+BEGIN_EXPORT html
 <div>[guide] How-to: Program your Pok3r -- Assign bottom right modifiers as arrow keys. - MechanicalKeyboards<br><br><br><a href="https://www.reddit.com/r/MechanicalKeyboards/comments/40obmk/guide_howto_program_your_pok3r_assign_bottom/">https://www.reddit.com/r/MechanicalKeyboards/comments/40obmk/guide_howto_program_your_pok3r_assign_bottom/</a><br></div>
 #+END_EXPORT
+
+** Programming a Pok3r mechanical keyboard - Cédric Blondeau's tech blog
+
+Captured On: [2019-05-30 00:51:59]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><div>Another attempt to get a dedicated arrow keys for Pok3r</div><div><br></div><div><a href="https://blog.cedricblondeau.com/2018/05/20/programming-a-pok3r-keyboard/">https://blog.cedricblondeau.com/2018/05/20/programming-a-pok3r-keyboard/</a></div><br></div>
+#+END_EXPORT
