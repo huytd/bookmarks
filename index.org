@@ -618,3 +618,11 @@ Captured On: [2019-05-30 00:51:59]
 #+BEGIN_EXPORT html
 <div dir="ltr"><div>Another attempt to get a dedicated arrow keys for Pok3r</div><div><br></div><div><a href="https://blog.cedricblondeau.com/2018/05/20/programming-a-pok3r-keyboard/">https://blog.cedricblondeau.com/2018/05/20/programming-a-pok3r-keyboard/</a></div><br></div>
 #+END_EXPORT
+
+** Unsupervised Text Summarization using Sentence Embeddings
+
+Captured On: [2019-05-30 08:52:02]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><a href="https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1">https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1</a><br><br></div>
+#+END_EXPORT
