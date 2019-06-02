@@ -626,3 +626,19 @@ Captured On: [2019-05-30 08:52:02]
 #+BEGIN_EXPORT html
 <div dir="ltr"><a href="https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1">https://medium.com/jatana/unsupervised-text-summarization-using-sentence-embeddings-adb15ce83db1</a><br><br></div>
 #+END_EXPORT
+
+** Displaying a daily Org-mode agenda reminder in Emacs 1 · GitHub
+
+Captured On: [2019-06-01 20:11:59]
+
+#+BEGIN_EXPORT html
+<div>Displaying a daily Org-mode agenda reminder in Emacs 1  GitHub<br><br><br><a href="https://gist.github.com/kriyative/1067922">https://gist.github.com/kriyative/1067922</a><br></div>
+#+END_EXPORT
+
+** Org-agenda-sms.el - Zane's Blog
+
+Captured On: [2019-06-01 20:19:58]
+
+#+BEGIN_EXPORT html
+<div>Org-agenda-sms.el - Zane&#39;s Blog<br><br><br><a href="https://demonastery.org/2011/05/org-agenda-sms-el/">https://demonastery.org/2011/05/org-agenda-sms-el/</a><br></div>
+#+END_EXPORT
