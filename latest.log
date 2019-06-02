@@ -1,15 +1,15 @@
 Traceback (most recent call last):
-  File "./sync", line 21, in <module>
-    resp, mails, octets = pop.list()
-  File "/usr/lib/python2.7/poplib.py", line 224, in list
-    return self._longcmd('LIST')
-  File "/usr/lib/python2.7/poplib.py", line 167, in _longcmd
-    return self._getlongresp()
-  File "/usr/lib/python2.7/poplib.py", line 143, in _getlongresp
-    resp = self._getresp()
+  File "./sync", line 19, in <module>
+    pop = utils.pop_connect(emailAddress, emailPassword, popServer, popPort)
+  File "/root/huy/bookmarks/utils.py", line 34, in pop_connect
+    con.pass_(password)
+  File "/usr/lib/python2.7/poplib.py", line 197, in pass_
+    return self._shortcmd('PASS %s' % pswd)
+  File "/usr/lib/python2.7/poplib.py", line 160, in _shortcmd
+    return self._getresp()
   File "/usr/lib/python2.7/poplib.py", line 136, in _getresp
     raise error_proto(resp)
-poplib.error_proto: -ERR [SYS/TEMP] Temporary system problem. Please try again later.
+poplib.error_proto: -ERR [SYS/TEMP] Temporary system problem.  Please try again later. g3mb134044935iok
 ad-handle-definition: ‘term’ got redefined
 Turn on helm-projectile key bindings
 Truncate long lines disabled
