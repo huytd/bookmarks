@@ -642,3 +642,11 @@ Captured On: [2019-06-01 20:19:58]
 #+BEGIN_EXPORT html
 <div>Org-agenda-sms.el - Zane&#39;s Blog<br><br><br><a href="https://demonastery.org/2011/05/org-agenda-sms-el/">https://demonastery.org/2011/05/org-agenda-sms-el/</a><br></div>
 #+END_EXPORT
+
+** Compiling C to WebAssembly without Emscripten — DasSur.ma
+
+Captured On: [2019-06-02 19:06:36]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><a href="https://dassur.ma/things/c-to-webassembly/">https://dassur.ma/things/c-to-webassembly/</a><br><br></div>
+#+END_EXPORT
