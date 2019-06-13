@@ -650,3 +650,19 @@ Captured On: [2019-06-02 19:06:36]
 #+BEGIN_EXPORT html
 <div dir="ltr"><a href="https://dassur.ma/things/c-to-webassembly/">https://dassur.ma/things/c-to-webassembly/</a><br><br></div>
 #+END_EXPORT
+
+** Three-fund portfolio - Bogleheads
+
+Captured On: [2019-06-13 11:29:37]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><a href="https://www.bogleheads.org/wiki/Three-fund_portfolio">https://www.bogleheads.org/wiki/Three-fund_portfolio</a><br><br></div>
+#+END_EXPORT
+
+** What if You Only Invested at Market Peaks? - A Wealth of Common Sense
+
+Captured On: [2019-06-13 11:29:47]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><a href="http://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/">http://awealthofcommonsense.com/2014/02/worlds-worst-market-timer/</a><br><br></div>
+#+END_EXPORT
