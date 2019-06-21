@@ -674,3 +674,11 @@ Captured On: [2019-06-20 15:38:06]
 #+BEGIN_EXPORT html
 <div dir="ltr"><div>Sketch is a way to externalize memory/idea, in a visual way, help us remember and process the information better.</div><div>It can also convey abstract ideas metaphorically.</div><div><br></div><div><a href="https://www.tc.columbia.edu/faculty/bt2158/faculty-profile/files/2002_Tversky_Whatdosketchessayaboutthinking.PDF">https://www.tc.columbia.edu/faculty/bt2158/faculty-profile/files/2002_Tversky_Whatdosketchessayaboutthinking.PDF</a></div><div><br></div><div>There are also researches that conclude, sketch can help developing concepts, let us see the unseen, come up with better ideas:</div><div><br></div><div><a href="https://www.tandfonline.com/doi/abs/10.1080/10400419109534381?journalCode=hcrj20">https://www.tandfonline.com/doi/abs/10.1080/10400419109534381?journalCode=hcrj20</a></div><div><br></div><div><a href="https://www.sciencedirect.com/science/article/pii/0142694X94900221">https://www.sciencedirect.com/science/article/pii/0142694X94900221</a></div></div>
 #+END_EXPORT
+
+** Sketching: the Visual Thinking Power Tool – A List Apart
+
+Captured On: [2019-06-20 17:55:40]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><a href="https://alistapart.com/article/sketching-the-visual-thinking-power-tool/">https://alistapart.com/article/sketching-the-visual-thinking-power-tool/</a><br><br>Keep it loose! Ugly sketches do the trick.</div>
+#+END_EXPORT
