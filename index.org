@@ -698,3 +698,11 @@ Captured On: [2019-06-24 09:12:13]
 #+BEGIN_EXPORT html
 <div dir="ltr"><a href="https://learning-rust.github.io/docs/c3.lifetimes.html">https://learning-rust.github.io/docs/c3.lifetimes.html</a><br><br></div>
 #+END_EXPORT
+
+** codergirljp: ADXL335 Accelerometer on the Teensy 3.1 - Getting Started
+
+Captured On: [2019-06-24 10:00:56]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><a href="http://codergirljp.blogspot.com/2014/05/adxl335-accelerometer-on-teensy-31.html">http://codergirljp.blogspot.com/2014/05/adxl335-accelerometer-on-teensy-31.html</a><br><br></div>
+#+END_EXPORT
