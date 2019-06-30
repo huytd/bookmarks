@@ -706,3 +706,48 @@ Captured On: [2019-06-24 10:00:56]
 #+BEGIN_EXPORT html
 <div dir="ltr"><a href="http://codergirljp.blogspot.com/2014/05/adxl335-accelerometer-on-teensy-31.html">http://codergirljp.blogspot.com/2014/05/adxl335-accelerometer-on-teensy-31.html</a><br><br></div>
 #+END_EXPORT
+
+** CPU Bound Workloads with NodeJS: Processor Parallelism » JessesNet Software Development Portfolio and Software Engineering Blog by Jesse Cascio
+
+Captured On: [2019-06-30 13:35:48]
+
+#+BEGIN_EXPORT html
+<div>CPU Bound Workloads with NodeJS: Processor Parallelism  JessesNet Software Development Portfolio and Software Engineering Blog by Jesse Cascio<br><br><br><a href="http://jessesnet.com/development-notes/2017/cpu-workloads-nodejs-processor-parallelism/">http://jessesnet.com/development-notes/2017/cpu-workloads-nodejs-processor-parallelism/</a><br></div>
+#+END_EXPORT
+
+** Node's IPC, unfortunately, comes with a non-trivial amount of
+ overhead. Messages are sent back and forth as JSON strings, which must be
+ encoded on one side and decoded on the other. Also, receiving data through
+ IPC is an async operation, and thus queued in V8's event loop. Yielding back
+ to the event loop each time after processing small messages makes matters
+ further worse. This repeated IPC caused thrashing when processing bursts of
+ text (like running cat on a large file). To mitigate this problem, we came up
+ with a simple solution: batch data into larger chunks before sending them to
+ the renderer process. IPC batching reduces the number of messages for verbose
+ commands significantly and allows the renderer to focus on, well, rendering.
+ One important consideration was to batch as much data as possible to reduce
+ the IPC overhead, but not so much that we introduce perceivable latency. With
+ this approach, the renderer process now spends most of its time doing
+ terminal emulation and ren
+
+Captured On: [2019-06-30 13:40:52]
+
+#+BEGIN_EXPORT html
+<div>Node&#39;s IPC, unfortunately, comes with a non-trivial amount of overhead. Messages are sent back and forth as JSON strings, which must be encoded on one side and decoded on the other. Also, receiving data through IPC is an async operation, and thus queued in V8&#39;s event loop. Yielding back to the event loop each time after processing small messages makes matters further worse. This repeated IPC caused thrashing when processing bursts of text (like running cat on a large file).<br><br>To mitigate this problem, we came up with a simple solution: batch data into larger chunks before sending them to the renderer process. IPC batching reduces the number of messages for verbose commands significantly and allows the renderer to focus on, well, rendering.<br><br>One important consideration was to batch as much data as possible to reduce the IPC overhead, but not so much that we introduce perceivable latency. With this approach, the renderer process now spends most of its time doing terminal emulation and rendering instead of processing IPC messages. The outcome is a much smoother, and faster terminal.<br></div>
+#+END_EXPORT
+
+** Building Microservices: Inter-Process Communication
+
+Captured On: [2019-06-30 13:43:28]
+
+#+BEGIN_EXPORT html
+<div>Building Microservices: Inter-Process Communication<br><br><br><a href="https://www.nginx.com/blog/building-microservices-inter-process-communication/">https://www.nginx.com/blog/building-microservices-inter-process-communication/</a><br></div>
+#+END_EXPORT
+
+** Having fun with nodejs child processes · soyuka.me
+
+Captured On: [2019-06-30 13:48:29]
+
+#+BEGIN_EXPORT html
+<div dir="auto"><ul style="font-family:-webkit-standard"><li>forking is slow, and so, interacting with processes that you launch once is more effective</li><li>the default IPC implementation lacks of simplicity (thats why<a href="https://github.com/soyuka/IPCEE">IPCEE</a>exists)</li><li>when the master dies, if forks are detached, its<em>not possible</em>to re-attach the child (actually the IPC channel uses streams so it should be possible somehow)</li></ul></div><br><br><br><a href="https://soyuka.me/having-fun-with-nodejs-child-processes/">https://soyuka.me/having-fun-with-nodejs-child-processes/</a><br>
+#+END_EXPORT
