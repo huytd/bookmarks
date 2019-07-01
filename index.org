@@ -751,3 +751,11 @@ Captured On: [2019-06-30 13:48:29]
 #+BEGIN_EXPORT html
 <div dir="auto"><ul style="font-family:-webkit-standard"><li>forking is slow, and so, interacting with processes that you launch once is more effective</li><li>the default IPC implementation lacks of simplicity (thats why<a href="https://github.com/soyuka/IPCEE">IPCEE</a>exists)</li><li>when the master dies, if forks are detached, its<em>not possible</em>to re-attach the child (actually the IPC channel uses streams so it should be possible somehow)</li></ul></div><br><br><br><a href="https://soyuka.me/having-fun-with-nodejs-child-processes/">https://soyuka.me/having-fun-with-nodejs-child-processes/</a><br>
 #+END_EXPORT
+
+** SwiftWebUI
+
+Captured On: [2019-07-01 00:26:40]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><div dir="ltr"><a href="http://www.alwaysrightinstitute.com/swiftwebui/">http://www.alwaysrightinstitute.com/swiftwebui/</a><br></div></div>
+#+END_EXPORT
