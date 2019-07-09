@@ -759,3 +759,11 @@ Captured On: [2019-07-01 00:26:40]
 #+BEGIN_EXPORT html
 <div dir="ltr"><div dir="ltr"><a href="http://www.alwaysrightinstitute.com/swiftwebui/">http://www.alwaysrightinstitute.com/swiftwebui/</a><br></div></div>
 #+END_EXPORT
+
+** Phonics, Not Whole Word, Is Best for Teaching Reading - The Atlantic
+
+Captured On: [2019-07-09 14:38:03]
+
+#+BEGIN_EXPORT html
+<div dir="ltr"><a href="https://www.theatlantic.com/ideas/archive/2019/06/phonics-not-whole-word-best-teaching-reading/591127/">https://www.theatlantic.com/ideas/archive/2019/06/phonics-not-whole-word-best-teaching-reading/591127/</a><br><br></div>
+#+END_EXPORT
